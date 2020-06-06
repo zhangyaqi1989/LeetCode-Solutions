@@ -245,7 +245,7 @@
 |0254|[Factor Combinations](https://leetcode.com/problems/factor-combinations)|Paid|46%|Medium| |[Soln 1](Python3/0254-Factor-Combinations/soln-1.py) <br> [Soln 2](Python3/0254-Factor-Combinations/soln.py)|
 |0255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|Paid|45%|Medium| |[Soln 1](Python3/0255-Verify-Preorder-Sequence-in-Binary-Search-Tree/soln.py)|
 |0256|[Paint House](https://leetcode.com/problems/paint-house)|Paid|52%|Easy| |[Soln 1](Python3/0256-Paint-House/soln-1.py) <br> [Soln 2](Python3/0256-Paint-House/soln.py)|
-|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Free|50%|Easy|Tree <br> Depth-first Search|[Soln 1](Python3/0257-Binary-Tree-Paths/soln-1.py) <br> [Soln 2](Python3/0257-Binary-Tree-Paths/soln-2.py) <br> [Soln 3](Python3/0257-Binary-Tree-Paths/soln.py)|
+|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Free|51%|Easy|Tree <br> Depth-first Search|[Soln 1](Python3/0257-Binary-Tree-Paths/soln-1.py) <br> [Soln 2](Python3/0257-Binary-Tree-Paths/soln-2.py) <br> [Soln 3](Python3/0257-Binary-Tree-Paths/soln.py)|
 |0258|[Add Digits](https://leetcode.com/problems/add-digits)|Free|56%|Easy|Math|[Soln 1](Python3/0258-Add-Digits/soln.py)|
 |0259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller)|Paid|47%|Medium| |[Soln 1](Python3/0259-3Sum-Smaller/soln-1.py) <br> [Soln 2](Python3/0259-3Sum-Smaller/soln-2.py) <br> [Soln 3](Python3/0259-3Sum-Smaller/soln.py)|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii)|Free|61%|Medium|Bit Manipulation|[Soln 1](Python3/0260-Single-Number-III/soln-1.py) <br> [Soln 2](Python3/0260-Single-Number-III/soln-2.py) <br> [Soln 3](Python3/0260-Single-Number-III/soln.py)|
@@ -627,7 +627,7 @@
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|Free|36%|Easy|String|[Soln 1](Python3/0680-Valid-Palindrome-II/soln.py)|
 |0681|[Next Closest Time](https://leetcode.com/problems/next-closest-time)|Paid|45%|Medium| |[Soln 1](Python3/0681-Next-Closest-Time/soln-1.py) <br> [Soln 2](Python3/0681-Next-Closest-Time/soln.py)|
 |0682|[Baseball Game](https://leetcode.com/problems/baseball-game)|Free|63%|Easy|Stack|[Soln 1](Python3/0682-Baseball-Game/soln-1.py) <br> [Soln 2](Python3/0682-Baseball-Game/soln-2.py) <br> [Soln 3](Python3/0682-Baseball-Game/soln.py)|
-|0683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Paid|35%|Hard| |[Soln 1](Python3/0683-K-Empty-Slots/soln-1.py) <br> [Soln 2](Python3/0683-K-Empty-Slots/soln.py)|
+|0683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Paid|36%|Hard| |[Soln 1](Python3/0683-K-Empty-Slots/soln-1.py) <br> [Soln 2](Python3/0683-K-Empty-Slots/soln.py)|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection)|Free|57%|Medium|Tree <br> Union Find <br> Graph|[Soln 1](Python3/0684-Redundant-Connection/soln-1.py) <br> [Soln 2](Python3/0684-Redundant-Connection/soln-2.py) <br> [Soln 3](Python3/0684-Redundant-Connection/soln-3.py) <br> [Soln 4](Python3/0684-Redundant-Connection/soln.py)|
 |0686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match)|Free|32%|Easy|String|[Soln 1](Python3/0686-Repeated-String-Match/soln-1.py) <br> [Soln 2](Python3/0686-Repeated-String-Match/soln.py)|
 |0687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)|Free|36%|Easy|Tree <br> Recursion|[Soln 1](Python3/0687-Longest-Univalue-Path/soln.py)|
@@ -678,7 +678,7 @@
 |0734|[Sentence Similarity](https://leetcode.com/problems/sentence-similarity)|Paid|42%|Easy| |[Soln 1](Python3/0734-Sentence-Similarity/soln.py)|
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|Free|41%|Medium|Stack|[Soln 1](Python3/0735-Asteroid-Collision/soln.py)|
 |0736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression)|Free|47%|Hard|String|[Soln 1](Python3/0736-Parse-Lisp-Expression/soln.py)|
-|0737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii)|Paid|46%|Medium| |[Soln 1](Python3/0737-Sentence-Similarity-II/soln.py)|
+|0737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii)|Paid|45%|Medium| |[Soln 1](Python3/0737-Sentence-Similarity-II/soln.py)|
 |0738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits)|Free|44%|Medium|Greedy|[Soln 1](Python3/0738-Monotone-Increasing-Digits/soln-1.py) <br> [Soln 2](Python3/0738-Monotone-Increasing-Digits/soln.py)|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|Free|63%|Medium|Hash Table <br> Stack|[Soln 1](Python3/0739-Daily-Temperatures/soln.py)|
 |0740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn)|Free|48%|Medium|Dynamic Programming|[Soln 1](Python3/0740-Delete-and-Earn/soln.py)|

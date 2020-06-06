@@ -236,7 +236,7 @@
 |0254|[Factor Combinations](https://leetcode.com/problems/factor-combinations)|Paid|46%|Medium| |[Soln 1](C++/0254-Factor-Combinations/soln-1.cpp) <br> [Soln 2](C++/0254-Factor-Combinations/soln.cpp)|
 |0255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|Paid|45%|Medium| |[Soln 1](C++/0255-Verify-Preorder-Sequence-in-Binary-Search-Tree/soln.cpp)|
 |0256|[Paint House](https://leetcode.com/problems/paint-house)|Paid|52%|Easy| |[Soln 1](C++/0256-Paint-House/soln.cpp)|
-|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Free|50%|Easy|Tree <br> Depth-first Search|[Soln 1](C++/0257-Binary-Tree-Paths/soln.cpp)|
+|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Free|51%|Easy|Tree <br> Depth-first Search|[Soln 1](C++/0257-Binary-Tree-Paths/soln.cpp)|
 |0258|[Add Digits](https://leetcode.com/problems/add-digits)|Free|56%|Easy|Math|[Soln 1](C++/0258-Add-Digits/soln.cpp)|
 |0259|[3Sum Smaller](https://leetcode.com/problems/3sum-smaller)|Paid|47%|Medium| |[Soln 1](C++/0259-3Sum-Smaller/soln.cpp)|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii)|Free|61%|Medium|Bit Manipulation|[Soln 1](C++/0260-Single-Number-III/soln-1.cpp) <br> [Soln 2](C++/0260-Single-Number-III/soln.cpp)|
@@ -568,7 +568,7 @@
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|Free|36%|Easy|String|[Soln 1](C++/0680-Valid-Palindrome-II/soln.cpp)|
 |0681|[Next Closest Time](https://leetcode.com/problems/next-closest-time)|Paid|45%|Medium| |[Soln 1](C++/0681-Next-Closest-Time/soln.cpp)|
 |0682|[Baseball Game](https://leetcode.com/problems/baseball-game)|Free|63%|Easy|Stack|[Soln 1](C++/0682-Baseball-Game/soln.cpp)|
-|0683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Paid|35%|Hard| |[Soln 1](C++/0683-K-Empty-Slots/soln-1.cpp) <br> [Soln 2](C++/0683-K-Empty-Slots/soln.cpp)|
+|0683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Paid|36%|Hard| |[Soln 1](C++/0683-K-Empty-Slots/soln-1.cpp) <br> [Soln 2](C++/0683-K-Empty-Slots/soln.cpp)|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection)|Free|57%|Medium|Tree <br> Union Find <br> Graph|[Soln 1](C++/0684-Redundant-Connection/soln-1.cpp) <br> [Soln 2](C++/0684-Redundant-Connection/soln-2.cpp) <br> [Soln 3](C++/0684-Redundant-Connection/soln.cpp)|
 |0685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii)|Free|32%|Hard|Tree <br> Depth-first Search <br> Union Find <br> Graph|[Soln 1](C++/0685-Redundant-Connection-II/soln.cpp)|
 |0686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match)|Free|32%|Easy|String|[Soln 1](C++/0686-Repeated-String-Match/soln.cpp)|
@@ -618,7 +618,7 @@
 |0733|[Flood Fill](https://leetcode.com/problems/flood-fill)|Free|55%|Easy|Depth-first Search|[Soln 1](C++/0733-Flood-Fill/soln.cpp)|
 |0734|[Sentence Similarity](https://leetcode.com/problems/sentence-similarity)|Paid|42%|Easy| |[Soln 1](C++/0734-Sentence-Similarity/soln.cpp)|
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|Free|41%|Medium|Stack|[Soln 1](C++/0735-Asteroid-Collision/soln.cpp)|
-|0737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii)|Paid|46%|Medium| |[Soln 1](C++/0737-Sentence-Similarity-II/soln-1.cpp) <br> [Soln 2](C++/0737-Sentence-Similarity-II/soln-2.cpp) <br> [Soln 3](C++/0737-Sentence-Similarity-II/soln.cpp)|
+|0737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii)|Paid|45%|Medium| |[Soln 1](C++/0737-Sentence-Similarity-II/soln-1.cpp) <br> [Soln 2](C++/0737-Sentence-Similarity-II/soln-2.cpp) <br> [Soln 3](C++/0737-Sentence-Similarity-II/soln.cpp)|
 |0738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits)|Free|44%|Medium|Greedy|[Soln 1](C++/0738-Monotone-Increasing-Digits/soln-1.cpp) <br> [Soln 2](C++/0738-Monotone-Increasing-Digits/soln.cpp)|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|Free|63%|Medium|Hash Table <br> Stack|[Soln 1](C++/0739-Daily-Temperatures/soln-1.cpp) <br> [Soln 2](C++/0739-Daily-Temperatures/soln.cpp)|
 |0740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn)|Free|48%|Medium|Dynamic Programming|[Soln 1](C++/0740-Delete-and-Earn/soln.cpp)|

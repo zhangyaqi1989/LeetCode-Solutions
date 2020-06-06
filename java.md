@@ -167,7 +167,7 @@
 |0253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)|Paid|45%|Medium| |[Soln 1](Java/0253-Meeting-Rooms-II/soln.java)|
 |0254|[Factor Combinations](https://leetcode.com/problems/factor-combinations)|Paid|46%|Medium| |[Soln 1](Java/0254-Factor-Combinations/soln.java)|
 |0255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|Paid|45%|Medium| |[Soln 1](Java/0255-Verify-Preorder-Sequence-in-Binary-Search-Tree/soln.java)|
-|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Free|50%|Easy|Tree <br> Depth-first Search|[Soln 1](Java/0257-Binary-Tree-Paths/soln.java)|
+|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Free|51%|Easy|Tree <br> Depth-first Search|[Soln 1](Java/0257-Binary-Tree-Paths/soln.java)|
 |0258|[Add Digits](https://leetcode.com/problems/add-digits)|Free|56%|Easy|Math|[Soln 1](Java/0258-Add-Digits/soln.java)|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii)|Free|61%|Medium|Bit Manipulation|[Soln 1](Java/0260-Single-Number-III/soln.java)|
 |0261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree)|Paid|42%|Medium| |[Soln 1](Java/0261-Graph-Valid-Tree/soln.java)|

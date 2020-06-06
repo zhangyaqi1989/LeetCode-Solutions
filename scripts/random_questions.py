@@ -4,8 +4,8 @@
 # University of Wisconsin-Madison
 # Author: Yaqi Zhang
 ##################################
-# This module function that can
-# pick unfinished problems randomly
+# This module can pick some LeetCode
+# problems.
 ##################################
 
 # standard library
@@ -17,7 +17,6 @@ import sys
 # local library
 from lc_crawler import get_problems_info, gen_url
 
-diff_dict = {1 : "EASY", 2 : "MEDIUM", 3 : "HARD"}
 
 def random_pick(n, lang, difficulty, todo=True, free=True):
     """Pick n questions of a specific language with specific difficulty."""
@@ -26,6 +25,8 @@ def random_pick(n, lang, difficulty, todo=True, free=True):
                         'c++'    : '../cpp.md',
                         'java'   : '../java.md',
                        }
+
+    diff_dict = {1 : "EASY", 2 : "MEDIUM", 3 : "HARD"}
 
     # collect finished problem indexes
     readme_path = readme_path_dict[lang]
