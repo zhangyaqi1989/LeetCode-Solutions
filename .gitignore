@@ -1,4 +1,6 @@
-scripts/
+scripts/*
+!scripts/random_questions.py
+!scripts/lc_crawler.py
 *.sh
 
 # Byte-compiled / optimized / DLL files
