@@ -568,7 +568,7 @@
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii)|Free|36%|Easy|String|[Soln 1](C++/0680-Valid-Palindrome-II/soln.cpp)|
 |0681|[Next Closest Time](https://leetcode.com/problems/next-closest-time)|Paid|45%|Medium| |[Soln 1](C++/0681-Next-Closest-Time/soln.cpp)|
 |0682|[Baseball Game](https://leetcode.com/problems/baseball-game)|Free|63%|Easy|Stack|[Soln 1](C++/0682-Baseball-Game/soln.cpp)|
-|0683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Paid|35%|Hard| |[Soln 1](C++/0683-K-Empty-Slots/soln-1.cpp) <br> [Soln 2](C++/0683-K-Empty-Slots/soln.cpp)|
+|0683|[K Empty Slots](https://leetcode.com/problems/k-empty-slots)|Paid|36%|Hard| |[Soln 1](C++/0683-K-Empty-Slots/soln-1.cpp) <br> [Soln 2](C++/0683-K-Empty-Slots/soln.cpp)|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection)|Free|57%|Medium|Tree <br> Union Find <br> Graph|[Soln 1](C++/0684-Redundant-Connection/soln-1.cpp) <br> [Soln 2](C++/0684-Redundant-Connection/soln-2.cpp) <br> [Soln 3](C++/0684-Redundant-Connection/soln.cpp)|
 |0685|[Redundant Connection II](https://leetcode.com/problems/redundant-connection-ii)|Free|32%|Hard|Tree <br> Depth-first Search <br> Union Find <br> Graph|[Soln 1](C++/0685-Redundant-Connection-II/soln.cpp)|
 |0686|[Repeated String Match](https://leetcode.com/problems/repeated-string-match)|Free|32%|Easy|String|[Soln 1](C++/0686-Repeated-String-Match/soln.cpp)|
@@ -1054,7 +1054,7 @@
 |1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii)|Free|40%|Medium|Array <br> Sort|[Soln 1](C++/1424-Diagonal-Traverse-II/soln.cpp)|
 |1425|[Constrained Subsequence Sum](https://leetcode.com/problems/constrained-subsequence-sum)|Free|44%|Hard|Dynamic Programming|[Soln 1](C++/1425-Constrained-Subset-Sum/soln.cpp)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|Free|88%|Easy|Array|[Soln 1](C++/1431-Kids-With-the-Greatest-Number-of-Candies/soln.cpp)|
-|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|Free|65%|Medium|String <br> Greedy|[Soln 1](C++/1433-Check-if-a-String-Can-Break-Another-String/soln.cpp)|
+|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|Free|66%|Medium|String <br> Greedy|[Soln 1](C++/1433-Check-if-a-String-Can-Break-Another-String/soln.cpp)|
 |1434|[Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|Free|37%|Hard|Dynamic Programming <br> Bit Manipulation|[Soln 1](C++/1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/soln.cpp)|
 |1436|[Destination City](https://leetcode.com/problems/destination-city)|Free|78%|Easy|String|[Soln 1](C++/1436-Destination-City/soln.cpp)|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|Free|64%|Medium|Array|[Soln 1](C++/1437-Check-if-all-1s-Are-at-Least-Length-K-Places-Away/soln.cpp)|
