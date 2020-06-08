@@ -1,3 +1,4 @@
+.DS_Store
 scripts/*
 !scripts/random_questions.py
 !scripts/lc_crawler.py

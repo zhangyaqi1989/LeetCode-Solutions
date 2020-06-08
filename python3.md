@@ -1,5 +1,5 @@
 # Python3
-**1161 (314 Easy; 612 Medium; 235 Hard) Problems listed.**
+**1165 (315 Easy; 614 Medium; 236 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -29,7 +29,7 @@
 |0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists)|Free|39%|Hard|Linked List <br> Divide and Conquer <br> Heap|[Soln 1](Python3/0023-Merge-K-Sorted-Lists/soln-1.py) <br> [Soln 2](Python3/0023-Merge-K-Sorted-Lists/soln-2.py) <br> [Soln 3](Python3/0023-Merge-K-Sorted-Lists/soln-3.py) <br> [Soln 4](Python3/0023-Merge-K-Sorted-Lists/soln.py)|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|Free|50%|Medium|Linked List|[Soln 1](Python3/0024-Swap-Nodes-in-Pairs/soln-1.py) <br> [Soln 2](Python3/0024-Swap-Nodes-in-Pairs/soln.py)|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-kgroup)|Free|41%|Hard|Linked List|[Soln 1](Python3/0025-Reverse-Nodes-in-k-Group/soln-1.py) <br> [Soln 2](Python3/0025-Reverse-Nodes-in-k-Group/soln.py)|
-|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|Free|44%|Easy|Array <br> Two Pointers|[Soln 1](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln-1.py) <br> [Soln 2](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln-2.py) <br> [Soln 3](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln-3.py) <br> [Soln 4](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln.py)|
+|0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|Free|45%|Easy|Array <br> Two Pointers|[Soln 1](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln-1.py) <br> [Soln 2](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln-2.py) <br> [Soln 3](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln-3.py) <br> [Soln 4](Python3/0026-Remove-Duplicates-from-Sorted-Array/soln.py)|
 |0027|[Remove Element](https://leetcode.com/problems/remove-element)|Free|48%|Easy|Array <br> Two Pointers|[Soln 1](Python3/0027-Remove-Element/soln.py)|
 |0028|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|Free|34%|Easy|Two Pointers <br> String|[Soln 1](Python3/0028-Implement-strStr/soln-1.py) <br> [Soln 2](Python3/0028-Implement-strStr/soln.py)|
 |0029|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers)|Free|16%|Medium|Math <br> Binary Search|[Soln 1](Python3/0029-Divide-Two-Integers/soln-1.py) <br> [Soln 2](Python3/0029-Divide-Two-Integers/soln.py)|
@@ -106,7 +106,7 @@
 |0100|[Same Tree](https://leetcode.com/problems/same-tree)|Free|52%|Easy|Tree <br> Depth-first Search|[Soln 1](Python3/0100-Same-Tree/soln-1.py) <br> [Soln 2](Python3/0100-Same-Tree/soln-2.py) <br> [Soln 3](Python3/0100-Same-Tree/soln.py)|
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree)|Free|46%|Easy|Tree <br> Depth-first Search <br> Breadth-first Search|[Soln 1](Python3/0101-Symmetric-Tree/soln-1.py) <br> [Soln 2](Python3/0101-Symmetric-Tree/soln-2.py) <br> [Soln 3](Python3/0101-Symmetric-Tree/soln.py)|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|Free|54%|Medium|Tree <br> Breadth-first Search|[Soln 1](Python3/0102-Binary-Tree-Level-Order-Traversal/soln-1.py) <br> [Soln 2](Python3/0102-Binary-Tree-Level-Order-Traversal/soln.py)|
-|0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|Free|46%|Medium|Stack <br> Tree <br> Breadth-first Search|[Soln 1](Python3/0103-Binary-Tree-Zigzag-Level-Order-Traversal/soln-1.py) <br> [Soln 2](Python3/0103-Binary-Tree-Zigzag-Level-Order-Traversal/soln-2.py) <br> [Soln 3](Python3/0103-Binary-Tree-Zigzag-Level-Order-Traversal/soln.py)|
+|0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|Free|47%|Medium|Stack <br> Tree <br> Breadth-first Search|[Soln 1](Python3/0103-Binary-Tree-Zigzag-Level-Order-Traversal/soln-1.py) <br> [Soln 2](Python3/0103-Binary-Tree-Zigzag-Level-Order-Traversal/soln-2.py) <br> [Soln 3](Python3/0103-Binary-Tree-Zigzag-Level-Order-Traversal/soln.py)|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|Free|65%|Easy|Tree <br> Depth-first Search|[Soln 1](Python3/0104-Maximum-Depth-of-Binary-Tree/soln-1.py) <br> [Soln 2](Python3/0104-Maximum-Depth-of-Binary-Tree/soln.py)|
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)|Free|48%|Medium|Array <br> Tree <br> Depth-first Search|[Soln 1](Python3/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/soln-1.py) <br> [Soln 2](Python3/0105-Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal/soln.py)|
 |0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)|Free|45%|Medium|Array <br> Tree <br> Depth-first Search|[Soln 1](Python3/0106-Construct-Binary-Tree-from-Inorder-and-Postorder-Traversal/soln.py)|
@@ -137,7 +137,7 @@
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)|Free|46%|Medium|Backtracking||
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)|Free|46%|Medium|Backtracking|[Soln 1](Python3/0131-Palindrome-Partition/soln-1.py) <br> [Soln 2](Python3/0131-Palindrome-Partition/soln-2.py) <br> [Soln 3](Python3/0131-Palindrome-Partition/soln-3.py) <br> [Soln 4](Python3/0131-Palindrome-Partition/soln.py)|
 |0132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)|Free|30%|Hard|Dynamic Programming|[Soln 1](Python3/0132-Palindrome-Partitioning-II/soln-1.py) <br> [Soln 2](Python3/0132-Palindrome-Partitioning-II/soln-2.py) <br> [Soln 3](Python3/0132-Palindrome-Partitioning-II/soln.py)|
-|0133|[Clone Graph](https://leetcode.com/problems/clone-graph)|Free|33%|Medium|Depth-first Search <br> Breadth-first Search <br> Graph|[Soln 1](Python3/0133-Clone-Graph/soln-1.py) <br> [Soln 2](Python3/0133-Clone-Graph/soln.py)|
+|0133|[Clone Graph](https://leetcode.com/problems/clone-graph)|Free|34%|Medium|Depth-first Search <br> Breadth-first Search <br> Graph|[Soln 1](Python3/0133-Clone-Graph/soln-1.py) <br> [Soln 2](Python3/0133-Clone-Graph/soln.py)|
 |0134|[Gas Station](https://leetcode.com/problems/gas-station)|Free|38%|Medium|Greedy|[Soln 1](Python3/0134-Gas-Station/soln.py)|
 |0135|[Candy](https://leetcode.com/problems/candy)|Free|31%|Hard|Greedy|[Soln 1](Python3/0135-Candy/soln.py)|
 |0136|[Single Number](https://leetcode.com/problems/single-number)|Free|65%|Easy|Hash Table <br> Bit Manipulation|[Soln 1](Python3/0136-Single-Number/soln-1.py) <br> [Soln 2](Python3/0136-Single-Number/soln.py)|
@@ -226,7 +226,7 @@
 |0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)|Free|49%|Easy|Tree|[Soln 1](Python3/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/soln-1.py) <br> [Soln 2](Python3/0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/soln.py)|
 |0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)|Free|44%|Medium|Tree|[Soln 1](Python3/0236-Lowest-Common-Ancestor-of-a-Binary-Tree/soln.py)|
 |0237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list)|Free|62%|Easy|Linked List|[Soln 1](Python3/0237-Delete-Node-in-a-Linked-List/soln.py)|
-|0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|Free|59%|Medium|Array|[Soln 1](Python3/0238-Product-of-Array-Except-Self/soln-1.py) <br> [Soln 2](Python3/0238-Product-of-Array-Except-Self/soln.py)|
+|0238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)|Free|60%|Medium|Array|[Soln 1](Python3/0238-Product-of-Array-Except-Self/soln-1.py) <br> [Soln 2](Python3/0238-Product-of-Array-Except-Self/soln.py)|
 |0239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum)|Free|42%|Hard|Heap <br> Sliding Window|[Soln 1](Python3/0239-Sliding-Window-Maximum/soln-1.py) <br> [Soln 2](Python3/0239-Sliding-Window-Maximum/soln-2.py) <br> [Soln 3](Python3/0239-Sliding-Window-Maximum/soln.py)|
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii)|Free|43%|Medium|Binary Search <br> Divide and Conquer|[Soln 1](Python3/0240-Search-a-2D-Matrix-II/soln-1.py) <br> [Soln 2](Python3/0240-Search-a-2D-Matrix-II/soln.py)|
 |0241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses)|Free|54%|Medium|Divide and Conquer|[Soln 1](Python3/0241-Different-Ways-to-Add-Parentheses/soln-1.py) <br> [Soln 2](Python3/0241-Different-Ways-to-Add-Parentheses/soln-2.py) <br> [Soln 3](Python3/0241-Different-Ways-to-Add-Parentheses/soln.py)|
@@ -392,8 +392,8 @@
 |0403|[Frog Jump](https://leetcode.com/problems/frog-jump)|Free|39%|Hard|Dynamic Programming|[Soln 1](Python3/0403-Frog-Jump/soln-1.py) <br> [Soln 2](Python3/0403-Frog-Jump/soln.py)|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves)|Free|51%|Easy|Tree|[Soln 1](Python3/0404-Sum-of-Left-Leaves/soln-1.py) <br> [Soln 2](Python3/0404-Sum-of-Left-Leaves/soln.py)|
 |0405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|Free|43%|Easy|Bit Manipulation|[Soln 1](Python3/0405-Convert-a-Number-to-Hexadecimal/soln.py)|
-|0406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)|Free|65%|Medium|Greedy|[Soln 1](Python3/0406-Queue-Reconstruction-by-Height/soln.py)|
-|0407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii)|Free|41%|Hard|Heap <br> Breadth-first Search|[Soln 1](Python3/0407-Trapping-Rain-Water-II/soln-1.py) <br> [Soln 2](Python3/0407-Trapping-Rain-Water-II/soln-2.py) <br> [Soln 3](Python3/0407-Trapping-Rain-Water-II/soln.py)|
+|0406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height)|Free|66%|Medium|Greedy|[Soln 1](Python3/0406-Queue-Reconstruction-by-Height/soln.py)|
+|0407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii)|Free|42%|Hard|Heap <br> Breadth-first Search|[Soln 1](Python3/0407-Trapping-Rain-Water-II/soln-1.py) <br> [Soln 2](Python3/0407-Trapping-Rain-Water-II/soln-2.py) <br> [Soln 3](Python3/0407-Trapping-Rain-Water-II/soln.py)|
 |0408|[Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|Paid|30%|Easy| |[Soln 1](Python3/0408-Valid-Word-Abbreviation/soln-1.py) <br> [Soln 2](Python3/0408-Valid-Word-Abbreviation/soln.py)|
 |0409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|Free|50%|Easy|Hash Table|[Soln 1](Python3/0409-Longest-Palindrome/soln.py)|
 |0410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)|Free|44%|Hard|Binary Search <br> Dynamic Programming|[Soln 1](Python3/0410-Split-Array-Largest-Sum/soln-1.py) <br> [Soln 2](Python3/0410-Split-Array-Largest-Sum/soln.py)|
@@ -419,7 +419,7 @@
 |0432|[All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure)|Free|32%|Hard|Design|[Soln 1](Python3/0432-All-Oone-Data-Structure/soln.py)|
 |0433|[Minimum Genetic Mutation](https://leetcode.com/problems/minimum-genetic-mutation)|Free|41%|Medium||[Soln 1](Python3/0433-Minimum-Genetic-Mutation/soln-1.py) <br> [Soln 2](Python3/0433-Minimum-Genetic-Mutation/soln.py)|
 |0434|[Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string)|Free|38%|Easy|String|[Soln 1](Python3/0434-Number-of-Segments-in-a-String/soln.py)|
-|0435|[Non-overlapping Intervals](https://leetcode.com/problems/nonoverlapping-intervals)|Free|42%|Medium|Greedy|[Soln 1](Python3/0435-Non-Overlapping-Intervals/soln.py)|
+|0435|[Non-overlapping Intervals](https://leetcode.com/problems/nonoverlapping-intervals)|Free|43%|Medium|Greedy|[Soln 1](Python3/0435-Non-Overlapping-Intervals/soln.py)|
 |0436|[Find Right Interval](https://leetcode.com/problems/find-right-interval)|Free|45%|Medium|Binary Search|[Soln 1](Python3/0436-Find-Right-Interval/soln-1.py) <br> [Soln 2](Python3/0436-Find-Right-Interval/soln.py)|
 |0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii)|Free|46%|Easy|Tree|[Soln 1](Python3/0437-Path-Sum-III/soln-1.py) <br> [Soln 2](Python3/0437-Path-Sum-III/soln.py)|
 |0438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string)|Free|43%|Medium|Hash Table|[Soln 1](Python3/0438-Find-All-Anagrams-in-a-String/soln.py)|
@@ -465,7 +465,7 @@
 |0480|[Sliding Window Median](https://leetcode.com/problems/sliding-window-median)|Free|36%|Hard|Sliding Window|[Soln 1](Python3/0480-Sliding-Window-Median/soln.py)|
 |0481|[Magical String](https://leetcode.com/problems/magical-string)|Free|47%|Medium||[Soln 1](Python3/0481-Magical-String/soln.py)|
 |0482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting)|Free|43%|Easy||[Soln 1](Python3/0482-License-Key-Formatting/soln-1.py) <br> [Soln 2](Python3/0482-License-Key-Formatting/soln.py)|
-|0483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base)|Free|35%|Hard|Math <br> Binary Search|[Soln 1](Python3/0483-Smallest-Good-Base/soln.py)|
+|0483|[Smallest Good Base](https://leetcode.com/problems/smallest-good-base)|Free|36%|Hard|Math <br> Binary Search|[Soln 1](Python3/0483-Smallest-Good-Base/soln.py)|
 |0484|[Find Permutation](https://leetcode.com/problems/find-permutation)|Paid|60%|Medium| |[Soln 1](Python3/0484-Find-Permutation/soln.py)|
 |0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|Free|55%|Easy|Array|[Soln 1](Python3/0485-Max-Consecutive-Ones/soln-1.py) <br> [Soln 2](Python3/0485-Max-Consecutive-Ones/soln-2.py) <br> [Soln 3](Python3/0485-Max-Consecutive-Ones/soln.py)|
 |0486|[Predict the Winner](https://leetcode.com/problems/predict-the-winner)|Free|48%|Medium|Dynamic Programming <br> Minimax|[Soln 1](Python3/0486-Predict-the-Winner/soln-1.py) <br> [Soln 2](Python3/0486-Predict-the-Winner/soln.py)|
@@ -497,7 +497,7 @@
 |0515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)|Free|61%|Medium|Tree <br> Depth-first Search <br> Breadth-first Search|[Soln 1](Python3/0515-Find-Largest-Value-in-Each-Tree-Row/soln.py)|
 |0516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence)|Free|52%|Medium|Dynamic Programming|[Soln 1](Python3/0516-Longest-Palindromic-Subsequence/soln-1.py) <br> [Soln 2](Python3/0516-Longest-Palindromic-Subsequence/soln-2.py) <br> [Soln 3](Python3/0516-Longest-Palindromic-Subsequence/soln-3.py) <br> [Soln 4](Python3/0516-Longest-Palindromic-Subsequence/soln-4.py) <br> [Soln 5](Python3/0516-Longest-Palindromic-Subsequence/soln.py)|
 |0517|[Super Washing Machines](https://leetcode.com/problems/super-washing-machines)|Free|38%|Hard|Math <br> Dynamic Programming|[Soln 1](Python3/0517-Super-Washing-Machines/soln-1.py) <br> [Soln 2](Python3/0517-Super-Washing-Machines/soln.py)|
-|0518|[Coin Change 2](https://leetcode.com/problems/coin-change-2)|Free|48%|Medium||[Soln 1](Python3/0518-Coin-Change-2/soln-1.py) <br> [Soln 2](Python3/0518-Coin-Change-2/soln.py)|
+|0518|[Coin Change 2](https://leetcode.com/problems/coin-change-2)|Free|49%|Medium||[Soln 1](Python3/0518-Coin-Change-2/soln-1.py) <br> [Soln 2](Python3/0518-Coin-Change-2/soln.py)|
 |0519|[Random Flip Matrix](https://leetcode.com/problems/random-flip-matrix)|Free|36%|Medium|Random|[Soln 1](Python3/0519-Random-Flip-Matrix/soln.py)|
 |0520|[Detect Capital](https://leetcode.com/problems/detect-capital)|Free|53%|Easy|String|[Soln 1](Python3/0520-Detect-Capital/soln.py)|
 |0521|[Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i)|Free|57%|Easy|String|[Soln 1](Python3/0521-Longest-Uncommon-Subsequence-I/soln.py)|
@@ -540,7 +540,7 @@
 |0561|[Array Partition I](https://leetcode.com/problems/array-partition-i)|Free|72%|Easy|Array|[Soln 1](Python3/0561-Array-Partition-I/soln.py)|
 |0562|[Longest Line of Consecutive One in Matrix](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|Paid|46%|Medium| |[Soln 1](Python3/0562-Longest-Line-of-Consecutive-One-in-Matrix/soln-1.py) <br> [Soln 2](Python3/0562-Longest-Line-of-Consecutive-One-in-Matrix/soln-2.py) <br> [Soln 3](Python3/0562-Longest-Line-of-Consecutive-One-in-Matrix/soln-3.py) <br> [Soln 4](Python3/0562-Longest-Line-of-Consecutive-One-in-Matrix/soln.py)|
 |0563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt)|Free|48%|Easy|Tree|[Soln 1](Python3/0563-Binary-Tree-Tilt/soln.py)|
-|0564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome)|Free|19%|Hard|String|[Soln 1](Python3/0564-Find-Closest-Palindrome/soln.py)|
+|0564|[Find the Closest Palindrome](https://leetcode.com/problems/find-the-closest-palindrome)|Free|20%|Hard|String|[Soln 1](Python3/0564-Find-Closest-Palindrome/soln.py)|
 |0565|[Array Nesting](https://leetcode.com/problems/array-nesting)|Free|55%|Medium|Array|[Soln 1](Python3/0565-Array-Nesting/soln.py)|
 |0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix)|Free|60%|Easy|Array|[Soln 1](Python3/0566-Reshape-the-Matrix/soln-1.py) <br> [Soln 2](Python3/0566-Reshape-the-Matrix/soln.py)|
 |0567|[Permutation in String](https://leetcode.com/problems/permutation-in-string)|Free|44%|Medium|Two Pointers <br> Sliding Window|[Soln 1](Python3/0567-Permutation-in-String/soln-1.py) <br> [Soln 2](Python3/0567-Permutation-in-String/soln.py)|
@@ -548,7 +548,7 @@
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree)|Free|44%|Easy|Tree|[Soln 1](Python3/0572-Subtree-of-Another-Tree/soln-1.py) <br> [Soln 2](Python3/0572-Subtree-of-Another-Tree/soln-2.py) <br> [Soln 3](Python3/0572-Subtree-of-Another-Tree/soln.py)|
 |0573|[Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation)|Paid|55%|Medium| |[Soln 1](Python3/0573-Squirrel-Simulation/soln-1.py) <br> [Soln 2](Python3/0573-Squirrel-Simulation/soln.py)|
 |0575|[Distribute Candies](https://leetcode.com/problems/distribute-candies)|Free|61%|Easy|Hash Table|[Soln 1](Python3/0575-Distribute-Candies/soln.py)|
-|0576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)|Free|35%|Medium|Dynamic Programming <br> Depth-first Search|[Soln 1](Python3/0576-Out-Boundary-Paths/soln.py)|
+|0576|[Out of Boundary Paths](https://leetcode.com/problems/out-of-boundary-paths)|Free|34%|Medium|Dynamic Programming <br> Depth-first Search|[Soln 1](Python3/0576-Out-Boundary-Paths/soln.py)|
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|Free|31%|Easy|Array|[Soln 1](Python3/0581-Shortest-Unsorted-Continuous-Subarray/soln.py)|
 |0582|[Kill Process](https://leetcode.com/problems/kill-process)|Paid|60%|Medium| |[Soln 1](Python3/0582-Kill-Process/soln.py)|
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)|Free|48%|Medium|String|[Soln 1](Python3/0583-Delete-Operation-for-Two-Strings/soln.py)|
@@ -556,7 +556,7 @@
 |0588|[Design In-Memory File System](https://leetcode.com/problems/design-inmemory-file-system)|Paid|45%|Hard| |[Soln 1](Python3/0588-Design-in-Memory-File-System/soln.py)|
 |0589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/nary-tree-preorder-traversal)|Free|71%|Easy|Tree|[Soln 1](Python3/0589-N-ary-Tree-Preorder-Traversal/soln-1.py) <br> [Soln 2](Python3/0589-N-ary-Tree-Preorder-Traversal/soln-2.py) <br> [Soln 3](Python3/0589-N-ary-Tree-Preorder-Traversal/soln.py)|
 |0590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/nary-tree-postorder-traversal)|Free|71%|Easy|Tree|[Soln 1](Python3/0590-N-ary-Tree-Postorder-Traversal/soln-1.py) <br> [Soln 2](Python3/0590-N-ary-Tree-Postorder-Traversal/soln.py)|
-|0592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)|Free|48%|Medium|Math|[Soln 1](Python3/0592-Fraction-Addition-and-Subtraction/soln.py)|
+|0592|[Fraction Addition and Subtraction](https://leetcode.com/problems/fraction-addition-and-subtraction)|Free|49%|Medium|Math|[Soln 1](Python3/0592-Fraction-Addition-and-Subtraction/soln.py)|
 |0593|[Valid Square](https://leetcode.com/problems/valid-square)|Free|43%|Medium|Math|[Soln 1](Python3/0593-Valid-Square/soln-1.py) <br> [Soln 2](Python3/0593-Valid-Square/soln.py)|
 |0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Free|46%|Easy|Hash Table|[Soln 1](Python3/0594-Longest-Harmonious-Subsequence/soln.py)|
 |0598|[Range Addition II](https://leetcode.com/problems/range-addition-ii)|Free|49%|Easy|Math|[Soln 1](Python3/0598-Range-Addition-II/soln.py)|
@@ -678,7 +678,7 @@
 |0734|[Sentence Similarity](https://leetcode.com/problems/sentence-similarity)|Paid|42%|Easy| |[Soln 1](Python3/0734-Sentence-Similarity/soln.py)|
 |0735|[Asteroid Collision](https://leetcode.com/problems/asteroid-collision)|Free|41%|Medium|Stack|[Soln 1](Python3/0735-Asteroid-Collision/soln.py)|
 |0736|[Parse Lisp Expression](https://leetcode.com/problems/parse-lisp-expression)|Free|47%|Hard|String|[Soln 1](Python3/0736-Parse-Lisp-Expression/soln.py)|
-|0737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii)|Paid|45%|Medium| |[Soln 1](Python3/0737-Sentence-Similarity-II/soln.py)|
+|0737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii)|Paid|46%|Medium| |[Soln 1](Python3/0737-Sentence-Similarity-II/soln.py)|
 |0738|[Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits)|Free|44%|Medium|Greedy|[Soln 1](Python3/0738-Monotone-Increasing-Digits/soln-1.py) <br> [Soln 2](Python3/0738-Monotone-Increasing-Digits/soln.py)|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures)|Free|63%|Medium|Hash Table <br> Stack|[Soln 1](Python3/0739-Daily-Temperatures/soln.py)|
 |0740|[Delete and Earn](https://leetcode.com/problems/delete-and-earn)|Free|48%|Medium|Dynamic Programming|[Soln 1](Python3/0740-Delete-and-Earn/soln.py)|
@@ -741,7 +741,7 @@
 |0802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states)|Free|48%|Medium|Depth-first Search <br> Graph|[Soln 1](Python3/0802-Find-Eventual-Safe-States/soln.py)|
 |0804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words)|Free|77%|Easy|String|[Soln 1](Python3/0804-Unique-Morse-Code-Words/soln-1.py) <br> [Soln 2](Python3/0804-Unique-Morse-Code-Words/soln.py)|
 |0805|[Split Array With Same Average](https://leetcode.com/problems/split-array-with-same-average)|Free|26%|Hard|Math|[Soln 1](Python3/0805-Split-Array-With-Same-Average/soln.py)|
-|0806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string)|Free|64%|Easy||[Soln 1](Python3/0806-Number-of-Lines-To-Write-String/soln.py)|
+|0806|[Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string)|Free|65%|Easy||[Soln 1](Python3/0806-Number-of-Lines-To-Write-String/soln.py)|
 |0807|[Max Increase to Keep City Skyline](https://leetcode.com/problems/max-increase-to-keep-city-skyline)|Free|83%|Medium||[Soln 1](Python3/0807-Max-Increase-to-Keep-City-Skyline/soln-1.py) <br> [Soln 2](Python3/0807-Max-Increase-to-Keep-City-Skyline/soln.py)|
 |0808|[Soup Servings](https://leetcode.com/problems/soup-servings)|Free|39%|Medium|Dynamic Programming|[Soln 1](Python3/0808-Soup-Servings/soln.py)|
 |0809|[Expressive Words](https://leetcode.com/problems/expressive-words)|Free|47%|Medium|String|[Soln 1](Python3/0809-Expressive-Words/soln.py)|
@@ -842,7 +842,7 @@
 |0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|Free|74%|Easy|Array|[Soln 1](Python3/0905-Sort-Array-By-Parity/soln-1.py) <br> [Soln 2](Python3/0905-Sort-Array-By-Parity/soln-2.py) <br> [Soln 3](Python3/0905-Sort-Array-By-Parity/soln.py)|
 |0906|[Super Palindromes](https://leetcode.com/problems/super-palindromes)|Free|33%|Hard|Math|[Soln 1](Python3/0906-Super-Palindromes/soln-1.py) <br> [Soln 2](Python3/0906-Super-Palindromes/soln.py)|
 |0907|[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums)|Free|32%|Medium|Array <br> Stack|[Soln 1](Python3/0907-Sum-of-Subarray-Minimums/soln.py)|
-|0908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i)|Free|65%|Easy|Math|[Soln 1](Python3/0908-Smallest-Range-I/soln.py)|
+|0908|[Smallest Range I](https://leetcode.com/problems/smallest-range-i)|Free|66%|Easy|Math|[Soln 1](Python3/0908-Smallest-Range-I/soln.py)|
 |0909|[Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders)|Free|38%|Medium|Breadth-first Search|[Soln 1](Python3/0909-Snakes-and-Ladders/soln-1.py) <br> [Soln 2](Python3/0909-Snakes-and-Ladders/soln.py)|
 |0910|[Smallest Range II](https://leetcode.com/problems/smallest-range-ii)|Free|26%|Medium|Math <br> Greedy|[Soln 1](Python3/0910-Smallest-Range-II/soln.py)|
 |0911|[Online Election](https://leetcode.com/problems/online-election)|Free|50%|Medium|Binary Search|[Soln 1](Python3/0911-Online-Election/soln-1.py) <br> [Soln 2](Python3/0911-Online-Election/soln.py)|
@@ -865,7 +865,7 @@
 |0929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses)|Free|68%|Easy|String|[Soln 1](Python3/0929-Unique-Email-Addresses/soln-1.py) <br> [Soln 2](Python3/0929-Unique-Email-Addresses/soln-2.py) <br> [Soln 3](Python3/0929-Unique-Email-Addresses/soln.py)|
 |0930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum)|Free|42%|Medium|Hash Table <br> Two Pointers|[Soln 1](Python3/0930-Binary-Subarrays-with-Sum/soln.py)|
 |0931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum)|Free|62%|Medium|Dynamic Programming|[Soln 1](Python3/0931-Minimum-Falling-Path-Sum/soln.py)|
-|0932|[Beautiful Array](https://leetcode.com/problems/beautiful-array)|Free|57%|Medium|Divide and Conquer|[Soln 1](Python3/0932-Beautiful-Array/soln-1.py) <br> [Soln 2](Python3/0932-Beautiful-Array/soln.py)|
+|0932|[Beautiful Array](https://leetcode.com/problems/beautiful-array)|Free|58%|Medium|Divide and Conquer|[Soln 1](Python3/0932-Beautiful-Array/soln-1.py) <br> [Soln 2](Python3/0932-Beautiful-Array/soln.py)|
 |0933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)|Free|71%|Easy|Queue|[Soln 1](Python3/0933-Number-of-Recent-Calls/soln-1.py) <br> [Soln 2](Python3/0933-Number-of-Recent-Calls/soln-2.py) <br> [Soln 3](Python3/0933-Number-of-Recent-Calls/soln.py)|
 |0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge)|Free|47%|Medium|Depth-first Search <br> Breadth-first Search|[Soln 1](Python3/0934-Shortest-Bridge/soln.py)|
 |0935|[Knight Dialer](https://leetcode.com/problems/knight-dialer)|Free|45%|Medium|Dynamic Programming|[Soln 1](Python3/0935-Knight-Dialer/soln-1.py) <br> [Soln 2](Python3/0935-Knight-Dialer/soln.py)|
@@ -886,7 +886,7 @@
 |0950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order)|Free|74%|Medium|Array|[Soln 1](Python3/0950-Reveal-Cards-in-Increasing-Order/soln-1.py) <br> [Soln 2](Python3/0950-Reveal-Cards-in-Increasing-Order/soln.py)|
 |0951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees)|Free|66%|Medium|Tree|[Soln 1](Python3/0951-Flip-Equivalent-Binary-Trees/soln.py)|
 |0952|[Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor)|Free|30%|Hard|Math <br> Union Find|[Soln 1](Python3/0952-Largest-Component-Size-by-Common-Factor/soln-1.py) <br> [Soln 2](Python3/0952-Largest-Component-Size-by-Common-Factor/soln.py)|
-|0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)|Free|55%|Easy|Hash Table|[Soln 1](Python3/0953-Verifying-an-Alien-Dictionary/soln.py)|
+|0953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary)|Free|54%|Easy|Hash Table|[Soln 1](Python3/0953-Verifying-an-Alien-Dictionary/soln.py)|
 |0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs)|Free|35%|Medium|Array <br> Hash Table|[Soln 1](Python3/0954-Array-of-Doubled-Pairs/soln.py)|
 |0955|[Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii)|Free|33%|Medium|Greedy|[Soln 1](Python3/0955-Delete-Columns-to-Make-Sorted-II/soln-1.py) <br> [Soln 2](Python3/0955-Delete-Columns-to-Make-Sorted-II/soln.py)|
 |0956|[Tallest Billboard](https://leetcode.com/problems/tallest-billboard)|Free|40%|Hard|Dynamic Programming|[Soln 1](Python3/0956-Tallest-Billboard/soln.py)|
@@ -909,14 +909,14 @@
 |0973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin)|Free|63%|Medium|Divide and Conquer <br> Heap <br> Sort|[Soln 1](Python3/0973-K-Closest-Points-to-Origin/soln.py)|
 |0974|[Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k)|Free|48%|Medium|Array <br> Hash Table|[Soln 1](Python3/0974-Subarray-Sums-Divisible-by-K/soln.py)|
 |0975|[Odd Even Jump](https://leetcode.com/problems/odd-even-jump)|Free|43%|Hard|Dynamic Programming <br> Stack <br> Ordered Map|[Soln 1](Python3/0975-Odd-Even-Jump/soln.py)|
-|0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|Free|57%|Easy|Math <br> Sort|[Soln 1](Python3/0976-Largest-Perimeter-Triangle/soln-1.py) <br> [Soln 2](Python3/0976-Largest-Perimeter-Triangle/soln.py)|
+|0976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle)|Free|58%|Easy|Math <br> Sort|[Soln 1](Python3/0976-Largest-Perimeter-Triangle/soln-1.py) <br> [Soln 2](Python3/0976-Largest-Perimeter-Triangle/soln.py)|
 |0977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|Free|72%|Easy|Array <br> Two Pointers|[Soln 1](Python3/0977-Squares-of-a-Sorted-Array/soln-1.py) <br> [Soln 2](Python3/0977-Squares-of-a-Sorted-Array/soln.py)|
 |0978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray)|Free|46%|Medium|Array <br> Dynamic Programming <br> Sliding Window|[Soln 1](Python3/0978-Longest-Turbulent-Subarray/soln.py)|
 |0979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree)|Free|68%|Medium|Tree <br> Depth-first Search|[Soln 1](Python3/0979-Distribute-Coins-in-Binary-tree/soln.py)|
 |0980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii)|Free|73%|Hard|Backtracking <br> Depth-first Search|[Soln 1](Python3/0980-Unique-Paths-III/soln-1.py) <br> [Soln 2](Python3/0980-Unique-Paths-III/soln-FU.py) <br> [Soln 3](Python3/0980-Unique-Paths-III/soln.py)|
 |0981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-keyvalue-store)|Free|53%|Medium|Hash Table <br> Binary Search|[Soln 1](Python3/0981-Time-Based-Key-Value-Store/soln.py)|
 |0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|Free|56%|Hard|Dynamic Programming|[Soln 1](Python3/0982-Triples-With-Bitwise-AND-Equal-to-Zero/soln-1.py) <br> [Soln 2](Python3/0982-Triples-With-Bitwise-AND-Equal-to-Zero/soln.py)|
-|0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|Free|59%|Medium|Dynamic Programming|[Soln 1](Python3/0983-Minimum-Cost-For-Tickets/soln-1.py) <br> [Soln 2](Python3/0983-Minimum-Cost-For-Tickets/soln.py)|
+|0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|Free|60%|Medium|Dynamic Programming|[Soln 1](Python3/0983-Minimum-Cost-For-Tickets/soln-1.py) <br> [Soln 2](Python3/0983-Minimum-Cost-For-Tickets/soln.py)|
 |0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb)|Free|37%|Medium|Greedy|[Soln 1](Python3/0984-String-Without-AAA-or-BBB/soln-1.py) <br> [Soln 2](Python3/0984-String-Without-AAA-or-BBB/soln.py)|
 |0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|Free|62%|Easy|Array|[Soln 1](Python3/0985-Sum-of-Even-Numbers-After-Queries/soln.py)|
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)|Free|67%|Medium|Two Pointers|[Soln 1](Python3/0986-Interval-List-Intersections/soln-1.py) <br> [Soln 2](Python3/0986-Interval-List-Intersections/soln.py)|
@@ -946,7 +946,7 @@
 |1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|Free|47%|Easy|Array|[Soln 1](Python3/1010-Pairs-of-Songs-With-Total-Durations-Divisible-by-60/soln.py)|
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|Free|57%|Medium|Array <br> Binary Search|[Soln 1](Python3/1011-Capacity-to-Ship-Packages-Within-D-Days/soln.py)|
 |1012|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits)|Free|37%|Hard|Math <br> Dynamic Programming|[Soln 1](Python3/1012-Numbers-With-Repeated-Digits/soln-1.py) <br> [Soln 2](Python3/1012-Numbers-With-Repeated-Digits/soln.py)|
-|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)|Free|54%|Easy|Array|[Soln 1](Python3/1013-Partition-Array-Into-Three-Parts-With-Equal-Sum/soln.py)|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)|Free|53%|Easy|Array|[Soln 1](Python3/1013-Partition-Array-Into-Three-Parts-With-Equal-Sum/soln.py)|
 |1014|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair)|Free|52%|Medium|Array|[Soln 1](Python3/1014-Best-Sightseeing-Pair/soln.py)|
 |1015|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k)|Free|32%|Medium|Math|[Soln 1](Python3/1015-Smallest-Integer-Divisible-by-K/soln-1.py) <br> [Soln 2](Python3/1015-Smallest-Integer-Divisible-by-K/soln.py)|
 |1016|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|Free|59%|Medium|String|[Soln 1](Python3/1016-Binary-String-With-Substrings-Representing-1-to-N/soln.py)|
@@ -994,7 +994,7 @@
 |1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array)|Paid|55%|Medium| |[Soln 1](Python3/1060-Missing-Element-in-Sorted-Array/soln.py)|
 |1061|[Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|Paid|65%|Medium| |[Soln 1](Python3/1061-Lexicographically-Smallest-Equivalent-String/soln.py)|
 |1062|[Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring)|Paid|56%|Medium| |[Soln 1](Python3/1062-Longest-Repeating-Substring/soln.py)|
-|1063|[Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays)|Paid|70%|Hard| |[Soln 1](Python3/1063-Number-of-Valid-Subarrays/soln.py)|
+|1063|[Number of Valid Subarrays](https://leetcode.com/problems/number-of-valid-subarrays)|Paid|71%|Hard| |[Soln 1](Python3/1063-Number-of-Valid-Subarrays/soln.py)|
 |1064|[Fixed Point](https://leetcode.com/problems/fixed-point)|Paid|67%|Easy| |[Soln 1](Python3/1064-Fixed-Point/soln-1.py) <br> [Soln 2](Python3/1064-Fixed-Point/soln.py)|
 |1065|[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string)|Paid|60%|Easy| |[Soln 1](Python3/1065-Index-Pairs-of-a-String/soln.py)|
 |1066|[Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii)|Paid|54%|Medium| |[Soln 1](Python3/1066-Campus-Bikes-II/soln.py)|
@@ -1026,7 +1026,7 @@
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|Free|67%|Medium|Tree <br> Depth-first Search|[Soln 1](Python3/1123-Lowest-Common-Ancestor-of-Deepest-Leaves/soln-1.py) <br> [Soln 2](Python3/1123-Lowest-Common-Ancestor-of-Deepest-Leaves/soln-2.py) <br> [Soln 3](Python3/1123-Lowest-Common-Ancestor-of-Deepest-Leaves/soln.py)|
 |1124|[Longest Well-Performing Interval](https://leetcode.com/problems/longest-wellperforming-interval)|Free|33%|Medium|Stack|[Soln 1](Python3/1124-Longest-Well-Performing-Interval/soln-1.py) <br> [Soln 2](Python3/1124-Longest-Well-Performing-Interval/soln.py)|
 |1125|[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team)|Free|46%|Hard|Dynamic Programming <br> Bit Manipulation|[Soln 1](Python3/1125-Smallest-Sufficient-Team/soln-1.py) <br> [Soln 2](Python3/1125-Smallest-Sufficient-Team/soln-2.py) <br> [Soln 3](Python3/1125-Smallest-Sufficient-Team/soln.py)|
-|1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|Free|47%|Easy|Array|[Soln 1](Python3/1128-Number-of-Equivalent-Domino-Pairs/soln.py)|
+|1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|Free|48%|Easy|Array|[Soln 1](Python3/1128-Number-of-Equivalent-Domino-Pairs/soln.py)|
 |1129|[Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|Free|39%|Medium|Breadth-first Search <br> Graph|[Soln 1](Python3/1129-Shortest-Path-With-Alternating-Colors/soln-1.py) <br> [Soln 2](Python3/1129-Shortest-Path-With-Alternating-Colors/soln.py)|
 |1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|Free|65%|Medium|Dynamic Programming <br> Stack <br> Tree|[Soln 1](Python3/1130-Minimum-Cost-Tree-From-Leaf-Values/soln.py)|
 |1131|[Maximum of Absolute Value Expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|Free|53%|Medium|Math <br> Bit Manipulation|[Soln 1](Python3/1131-Maximum-of-Absolute-Value-Expression/soln.py)|
@@ -1064,7 +1064,7 @@
 |1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler)|Paid|51%|Medium| |[Soln 1](Python3/1229-Meeting-Scheduler/soln.py)|
 |1230|[Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins)|Paid|48%|Medium| |[Soln 1](Python3/1230-Toss-Strange-Coins/soln-1.py) <br> [Soln 2](Python3/1230-Toss-Strange-Coins/soln.py)|
 |1231|[Divide Chocolate](https://leetcode.com/problems/divide-chocolate)|Paid|52%|Hard| |[Soln 1](Python3/1231-Divide-Chocolate/soln.py)|
-|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|Free|47%|Easy|Array <br> Math <br> Geometry|[Soln 1](Python3/1232-Check-If-It-is-a-Straight-Line/soln.py)|
+|1232|[Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|Free|46%|Easy|Array <br> Math <br> Geometry|[Soln 1](Python3/1232-Check-If-It-is-a-Straight-Line/soln.py)|
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-subfolders-from-the-filesystem)|Free|58%|Medium|Array <br> String|[Soln 1](Python3/1233-Remove-Sub-Folders-from-the-Filesystem/soln.py)|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|Free|44%|Hard|Binary Search <br> Dynamic Programming <br> Sort|[Soln 1](Python3/1235-Maximum-Profit-in-Job-Scheduling/soln.py)|
 |1236|[Web Crawler](https://leetcode.com/problems/web-crawler)|Paid|64%|Medium| |[Soln 1](Python3/1236-Web-Crawler/soln.py)|
@@ -1084,7 +1084,7 @@
 |1312|[Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome)|Free|57%|Hard|Dynamic Programming|[Soln 1](Python3/1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/soln-1.py) <br> [Soln 2](Python3/1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/soln-2.py) <br> [Soln 3](Python3/1312-Minimum-Insertion-Steps-to-Make-a-String-Palindrome/soln.py)|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-runlength-encoded-list)|Free|85%|Easy|Array|[Soln 1](Python3/1313-Decompress-Run-Length-Encoded-List/soln.py)|
 |1314|[Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum)|Free|73%|Medium|Dynamic Programming|[Soln 1](Python3/1314-Matrix-Block-Sum/soln.py)|
-|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-evenvalued-grandparent)|Free|84%|Medium|Tree <br> Depth-first Search|[Soln 1](Python3/1315-Sum-of-Nodes-with-Even-Valued-Grandparent/soln.py)|
+|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-evenvalued-grandparent)|Free|83%|Medium|Tree <br> Depth-first Search|[Soln 1](Python3/1315-Sum-of-Nodes-with-Even-Valued-Grandparent/soln.py)|
 |1316|[Distinct Echo Substrings](https://leetcode.com/problems/distinct-echo-substrings)|Free|47%|Hard|String <br> Rolling Hash|[Soln 1](Python3/1316-Distinct-Echo-Substrings/soln.py)|
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-nozero-integers)|Free|57%|Easy|Math|[Soln 1](Python3/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/soln.py)|
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|Free|62%|Medium|Bit Manipulation|[Soln 1](Python3/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-C/soln-1.py) <br> [Soln 2](Python3/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-C/soln.py)|
@@ -1093,7 +1093,7 @@
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)|Free|78%|Easy|Math|[Soln 1](Python3/1323-Maximum-69-Number/soln.py)|
 |1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically)|Free|58%|Medium|String|[Soln 1](Python3/1324-Print-Words-Vertically/soln.py)|
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value)|Free|73%|Medium|Tree|[Soln 1](Python3/1325-Delete-Leaves-with-a-Given-Value/soln.py)|
-|1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)|Free|42%|Hard|Dynamic Programming <br> Greedy|[Soln 1](Python3/1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden/soln.py)|
+|1326|[Minimum Number of Taps to Open to Water a Garden](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden)|Free|43%|Hard|Dynamic Programming <br> Greedy|[Soln 1](Python3/1326-Minimum-Number-of-Taps-to-Open-to-Water-a-Garden/soln.py)|
 |1329|[Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally)|Free|78%|Medium|Array <br> Sort|[Soln 1](Python3/1329-Sort-the-Matrix-Diagonally/soln.py)|
 |1332|[Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences)|Free|59%|Easy|String|[Soln 1](Python3/1332-Remove-Palindromic-Subsequences/soln.py)|
 |1333|[Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-veganfriendly-price-and-distance)|Free|54%|Medium|Array <br> Sort|[Soln 1](Python3/1333-Filter-Restaurants-by-Vegan-Friendly-Price-and-Distance/soln.py)|
@@ -1133,10 +1133,10 @@
 |1420|[Build Array Where You Can Find The Maximum Exactly K Comparisons](https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons)|Free|66%|Hard|Dynamic Programming|[Soln 1](Python3/1420-Build-Array-Where-You-Can-Find-the-Maximum-Exactly-K-Comparisons/soln.py)|
 |1422|[Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string)|Free|54%|Easy|String|[Soln 1](Python3/1422-Maximum-Score-After-Splitting-a-String/soln-1.py) <br> [Soln 2](Python3/1422-Maximum-Score-After-Splitting-a-String/soln.py)|
 |1423|[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards)|Free|39%|Medium|Array <br> Dynamic Programming <br> Sliding Window|[Soln 1](Python3/1423-Maximum-Points-You-Can-Obtain-From-Cards/soln.py)|
-|1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii)|Free|40%|Medium|Array <br> Sort|[Soln 1](Python3/1424-Diagonal-Traverse-II/soln-1.py) <br> [Soln 2](Python3/1424-Diagonal-Traverse-II/soln.py)|
+|1424|[Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii)|Free|41%|Medium|Array <br> Sort|[Soln 1](Python3/1424-Diagonal-Traverse-II/soln-1.py) <br> [Soln 2](Python3/1424-Diagonal-Traverse-II/soln.py)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|Free|88%|Easy|Array|[Soln 1](Python3/1431-Kids-With-the-Greatest-Number-of-Candies/soln.py)|
 |1432|[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)|Free|43%|Medium|String|[Soln 1](Python3/1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/soln.py)|
-|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|Free|65%|Medium|String <br> Greedy|[Soln 1](Python3/1433-Check-if-a-String-Can-Break-Another-String/soln.py)|
+|1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|Free|66%|Medium|String <br> Greedy|[Soln 1](Python3/1433-Check-if-a-String-Can-Break-Another-String/soln.py)|
 |1434|[Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|Free|37%|Hard|Dynamic Programming <br> Bit Manipulation|[Soln 1](Python3/1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/soln.py)|
 |1436|[Destination City](https://leetcode.com/problems/destination-city)|Free|78%|Easy|String|[Soln 1](Python3/1436-Destination-City/soln.py)|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|Free|64%|Medium|Array|[Soln 1](Python3/1437-Check-if-all-1s-Are-at-Least-Length-K-Places-Away/soln.py)|
@@ -1162,6 +1162,10 @@
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv)|Free|40%|Medium|Graph|[Soln 1](Python3/1462-Course-Schedule-IV/soln-1.py) <br> [Soln 2](Python3/1462-Course-Schedule-IV/soln.py)|
 |1463|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii)|Free|63%|Hard|Dynamic Programming|[Soln 1](Python3/1463-Cherry-Pickup-II/soln.py)|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|Free|81%|Easy|Array|[Soln 1](Python3/1464-Maximum-Product-of-Two-Elements-in-an-Array/soln.py)|
-|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|Free|30%|Medium|Array|[Soln 1](Python3/1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/soln.py)|
+|1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|Free|31%|Medium|Array|[Soln 1](Python3/1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/soln.py)|
 |1466|[Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero)|Free|63%|Medium|Tree <br> Depth-first Search|[Soln 1](Python3/1466-Reorder-Routes-to-Make-All-Paths-Lead-to-the-City-Zero/soln.py)|
 |1467|[Probability of a Two Boxes Having The Same Number of Distinct Balls](https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls)|Free|61%|Hard|Math <br> Backtracking|[Soln 1](Python3/1467-Probability-of-a-Two-Boxes-Having-The-Same-Number-of-Distinct-Balls/soln.py)|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)|Free|92%|Easy| |[Soln 1](Python3/1470-Shuffle-the-Array/soln-1.py) <br> [Soln 2](Python3/1470-Shuffle-the-Array/soln-2.py) <br> [Soln 3](Python3/1470-Shuffle-the-Array/soln.py)|
+|1471|[The k Strongest Values in an Array](https://leetcode.com/problems/the-k-strongest-values-in-an-array)|Free|56%|Medium| |[Soln 1](Python3/1471-The-K-Strongest-Values-in-an-Array/soln.py)|
+|1472|[Design Browser History](https://leetcode.com/problems/design-browser-history)|Free|60%|Medium| |[Soln 1](Python3/1472-Design-Browser-History/soln.py)|
+|1473|[Paint House III](https://leetcode.com/problems/paint-house-iii)|Free|45%|Hard| |[Soln 1](Python3/1473-Paint-House-III/soln.py)|
