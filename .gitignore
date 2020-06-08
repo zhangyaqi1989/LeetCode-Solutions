@@ -2,6 +2,7 @@
 scripts/*
 !scripts/random_questions.py
 !scripts/lc_crawler.py
+!scripts/add_url.py
 *.sh
 
 # Byte-compiled / optimized / DLL files
