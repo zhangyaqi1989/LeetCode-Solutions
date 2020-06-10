@@ -79,8 +79,9 @@ def fix_folder_names(base_dir):
 if __name__ == "__main__":
     ## 1. check whether urls are valid
     # base_dir = '../Python3'
-    base_dir = '../C++'
-    # check_urls(base_dir)
+    # base_dir = '../C++'
+    base_dir = '../Java'
+    check_urls(base_dir)
 
     ## 2. fix folder names based on Python3 folder names
     # base_dir = '../C++'
