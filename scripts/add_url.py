@@ -16,6 +16,8 @@ import time
 # 3rd party library
 import requests
 
+SLEEP_TIME = 0.1
+
 def problem_url_exist(problem, sleep_time=1.5):
     # problem format is "Two-Sum"
     prefix = "https://leetcode.com/problems/"
@@ -30,7 +32,6 @@ def url_exist(url):
     return request.status_code == 200
 
 
-# checks = {1419,1311,1209,1087,1058,1054,1005,1003,937,891,828,792,719,711,708,651,632,576,564,558,474,417,386,267}
 def check_urls(base_dir):
     """check if urls are available."""
     cnt, nwrongs = 0, 0
@@ -43,7 +44,7 @@ def check_urls(base_dir):
                 continue
             """
             cnt += 1
-            time.sleep(0.5)
+            time.sleep(SLEEP_TIME)
             exists, url = problem_url_exist(rest)
             if not exists:
                 nwrongs += 1
@@ -51,6 +52,37 @@ def check_urls(base_dir):
     print("There are {} wrong folder names".format(nwrongs))
 
 
+def fix_folder_names(base_dir):
+    """using Python3 question folder names as reference, fix question folder names of other languages (C++/Java)."""
+    # read Python3 folder names to references
+    references = {}
+    reference_dir = "../Python3"
+    for fn in sorted(os.listdir(reference_dir)):
+        if os.path.isdir(os.path.join(reference_dir, fn)):
+            num, rest = fn.split('-', 1)
+            num = int(num)
+            references[num] = fn
+    renames = []
+    for fn in sorted(os.listdir(base_dir), reverse=True):
+        if os.path.isdir(os.path.join(base_dir, fn)):
+            num, rest = fn.split('-', 1)
+            num = int(num)
+            ref_folder_name = references.get(num, None)
+            if ref_folder_name is not None and ref_folder_name.lower() != fn.lower():
+                renames.append((os.path.join(base_dir, fn), os.path.join(base_dir, ref_folder_name)))
+    for src, target in renames:
+        print(f"rename {src} to {target}")
+        os.rename(src, target)
+
+
+
 if __name__ == "__main__":
-    base_dir = '../Python3'
-    check_urls(base_dir)
+    ## 1. check whether urls are valid
+    # base_dir = '../Python3'
+    base_dir = '../C++'
+    # check_urls(base_dir)
+
+    ## 2. fix folder names based on Python3 folder names
+    # base_dir = '../C++'
+    # base_dir = '../Java'
+    # fix_folder_names(base_dir)
