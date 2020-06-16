@@ -1,5 +1,6 @@
 .DS_Store
 scripts/*
+Go/*
 !scripts/random_questions.py
 !scripts/lc_crawler.py
 !scripts/add_url.py
