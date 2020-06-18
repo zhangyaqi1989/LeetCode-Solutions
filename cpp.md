@@ -85,7 +85,7 @@
 |0081|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|Free|33%|Medium|Array <br> Binary Search|[Soln 1](C++/0081-Search-in-Rotated-Sorted-Array-II/soln.cpp)|
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|Free|36%|Medium|Linked List|[Soln 1](C++/0082-Remove-Duplicates-from-Sorted-List-II/soln.cpp)|
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|Free|45%|Easy|Linked List|[Soln 1](C++/0083-Remove-Duplicates-from-Sorted-List/soln.cpp)|
-|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|Free|34%|Hard|Array <br> Stack|[Soln 1](C++/0084-Largest-Rectangle-in-Histogram/soln.cpp)|
+|0084|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram)|Free|35%|Hard|Array <br> Stack|[Soln 1](C++/0084-Largest-Rectangle-in-Histogram/soln.cpp)|
 |0086|[Partition List](https://leetcode.com/problems/partition-list)|Free|41%|Medium|Linked List <br> Two Pointers|[Soln 1](C++/0086-Partition-List/soln.cpp)|
 |0087|[Scramble String](https://leetcode.com/problems/scramble-string)|Free|33%|Hard|String <br> Dynamic Programming|[Soln 1](C++/0087-Scramble-String/soln.cpp)|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|Free|39%|Easy|Array <br> Two Pointers|[Soln 1](C++/0088-Merge-Sorted-Array/soln-1.cpp) <br> [Soln 2](C++/0088-Merge-Sorted-Array/soln.cpp)|
@@ -120,16 +120,16 @@
 |0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|Free|38%|Medium|Tree <br> Depth-first Search|[Soln 1](C++/0117-Populating-Next-Right-Pointers-in-Each-Node-II/soln-1.cpp) <br> [Soln 2](C++/0117-Populating-Next-Right-Pointers-in-Each-Node-II/soln.cpp)|
 |0118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle)|Free|52%|Easy|Array|[Soln 1](C++/0118-Pascals-Triangle/soln.cpp)|
 |0119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)|Free|48%|Easy|Array|[Soln 1](C++/0119-Pascals-Triangle-II/soln.cpp)|
-|0120|[Triangle](https://leetcode.com/problems/triangle)|Free|43%|Medium|Array <br> Dynamic Programming|[Soln 1](C++/0120-Triangle/soln-1.cpp) <br> [Soln 2](C++/0120-Triangle/soln.cpp)|
+|0120|[Triangle](https://leetcode.com/problems/triangle)|Free|44%|Medium|Array <br> Dynamic Programming|[Soln 1](C++/0120-Triangle/soln-1.cpp) <br> [Soln 2](C++/0120-Triangle/soln.cpp)|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|Free|50%|Easy|Array <br> Dynamic Programming|[Soln 1](C++/0121-Best-Time-to-Buy-and-Sell-Stock/soln-1.cpp) <br> [Soln 2](C++/0121-Best-Time-to-Buy-and-Sell-Stock/soln.cpp)|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|Free|56%|Easy|Array <br> Greedy|[Soln 1](C++/0122-Best-Time-to-Buy-and-Sell-Stock-II/soln.cpp)|
 |0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|Free|37%|Hard|Array <br> Dynamic Programming|[Soln 1](C++/0123-Best-Time-to-Buy-and-Sell-Stock-III/soln.cpp)|
-|0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|Free|35%|Easy|Two Pointers <br> String|[Soln 1](C++/0125-Valid-Palindrome/soln.cpp)|
+|0125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome)|Free|36%|Easy|Two Pointers <br> String|[Soln 1](C++/0125-Valid-Palindrome/soln.cpp)|
 |0126|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii)|Free|22%|Hard|Array <br> String <br> Backtracking <br> Breadth-first Search|[Soln 1](C++/0126-Word-Ladder-II/soln.cpp)|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder)|Free|29%|Medium|Breadth-first Search|[Soln 1](C++/0127-Word-Ladder/soln-1.cpp) <br> [Soln 2](C++/0127-Word-Ladder/soln-2.cpp) <br> [Soln 3](C++/0127-Word-Ladder/soln-3.cpp) <br> [Soln 4](C++/0127-Word-Ladder/soln.cpp)|
 |0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence)|Free|45%|Hard|Array <br> Union Find|[Soln 1](C++/0128-Longest-Consecutive-Sequence/soln-1.cpp) <br> [Soln 2](C++/0128-Longest-Consecutive-Sequence/soln-2.cpp) <br> [Soln 3](C++/0128-Longest-Consecutive-Sequence/soln.cpp)|
 |0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|Free|47%|Medium|Tree <br> Depth-first Search|[Soln 1](C++/0129-Sum-Root-to-Leaf-Numbers/soln.cpp)|
-|0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions)|Free|26%|Medium|Depth-first Search <br> Breadth-first Search <br> Union Find|[Soln 1](C++/0130-Surrounded-Regions/soln-1.cpp) <br> [Soln 2](C++/0130-Surrounded-Regions/soln-2.cpp) <br> [Soln 3](C++/0130-Surrounded-Regions/soln.cpp)|
+|0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions)|Free|27%|Medium|Depth-first Search <br> Breadth-first Search <br> Union Find|[Soln 1](C++/0130-Surrounded-Regions/soln-1.cpp) <br> [Soln 2](C++/0130-Surrounded-Regions/soln-2.cpp) <br> [Soln 3](C++/0130-Surrounded-Regions/soln.cpp)|
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)|Free|46%|Medium|Backtracking|[Soln 1](C++/0131-Palindrome-Partitioning/soln.cpp)|
 |0132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)|Free|30%|Hard|Dynamic Programming|[Soln 1](C++/0132-Palindrome-Partitioning-II/soln.cpp)|
 |0133|[Clone Graph](https://leetcode.com/problems/clone-graph)|Free|34%|Medium|Depth-first Search <br> Breadth-first Search <br> Graph|[Soln 1](C++/0133-Clone-Graph/soln-1.cpp) <br> [Soln 2](C++/0133-Clone-Graph/soln.cpp)|
@@ -194,7 +194,7 @@
 |0211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design)|Free|36%|Medium|Backtracking <br> Design <br> Trie|[Soln 1](C++/0211-Add-and-Search-Word-Data-Structure-Design/soln.cpp)|
 |0212|[Word Search II](https://leetcode.com/problems/word-search-ii)|Free|33%|Hard|Backtracking <br> Trie|[Soln 1](C++/0212-Word-Search-II/soln.cpp)|
 |0213|[House Robber II](https://leetcode.com/problems/house-robber-ii)|Free|36%|Medium|Dynamic Programming|[Soln 1](C++/0213-House-Robber-II/soln-1.cpp) <br> [Soln 2](C++/0213-House-Robber-II/soln.cpp)|
-|0214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|Free|29%|Hard|String|[Soln 1](C++/0214-Shortest-Palindrome/soln.cpp)|
+|0214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome)|Free|30%|Hard|String|[Soln 1](C++/0214-Shortest-Palindrome/soln.cpp)|
 |0215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array)|Free|54%|Medium|Divide and Conquer <br> Heap|[Soln 1](C++/0215-Kth-Largest-Element-in-an-Array/soln-1.cpp) <br> [Soln 2](C++/0215-Kth-Largest-Element-in-an-Array/soln.cpp)|
 |0216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii)|Free|56%|Medium|Array <br> Backtracking|[Soln 1](C++/0216-Combination-Sum-III/soln.cpp)|
 |0217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate)|Free|56%|Easy|Array <br> Hash Table|[Soln 1](C++/0217-Contains-Duplicate/soln-1.cpp) <br> [Soln 2](C++/0217-Contains-Duplicate/soln-2.cpp) <br> [Soln 3](C++/0217-Contains-Duplicate/soln.cpp)|
@@ -233,8 +233,8 @@
 |0251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector)|Paid|45%|Medium| |[Soln 1](C++/0251-Flatten-2D-Vector/soln.cpp)|
 |0252|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms)|Paid|54%|Easy| |[Soln 1](C++/0252-Meeting-Rooms/soln.cpp)|
 |0253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii)|Paid|45%|Medium| |[Soln 1](C++/0253-Meeting-Rooms-II/soln-1.cpp) <br> [Soln 2](C++/0253-Meeting-Rooms-II/soln-2.cpp) <br> [Soln 3](C++/0253-Meeting-Rooms-II/soln-3.cpp) <br> [Soln 4](C++/0253-Meeting-Rooms-II/soln-4.cpp) <br> [Soln 5](C++/0253-Meeting-Rooms-II/soln.cpp)|
-|0254|[Factor Combinations](https://leetcode.com/problems/factor-combinations)|Paid|46%|Medium| |[Soln 1](C++/0254-Factor-Combinations/soln-1.cpp) <br> [Soln 2](C++/0254-Factor-Combinations/soln.cpp)|
-|0255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|Paid|45%|Medium| |[Soln 1](C++/0255-Verify-Preorder-Sequence-in-Binary-Search-Tree/soln.cpp)|
+|0254|[Factor Combinations](https://leetcode.com/problems/factor-combinations)|Paid|47%|Medium| |[Soln 1](C++/0254-Factor-Combinations/soln-1.cpp) <br> [Soln 2](C++/0254-Factor-Combinations/soln.cpp)|
+|0255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree)|Paid|46%|Medium| |[Soln 1](C++/0255-Verify-Preorder-Sequence-in-Binary-Search-Tree/soln.cpp)|
 |0256|[Paint House](https://leetcode.com/problems/paint-house)|Paid|52%|Easy| |[Soln 1](C++/0256-Paint-House/soln.cpp)|
 |0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths)|Free|51%|Easy|Tree <br> Depth-first Search|[Soln 1](C++/0257-Binary-Tree-Paths/soln.cpp)|
 |0258|[Add Digits](https://leetcode.com/problems/add-digits)|Free|56%|Easy|Math|[Soln 1](C++/0258-Add-Digits/soln.cpp)|
@@ -246,7 +246,7 @@
 |0266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation)|Paid|62%|Easy| |[Soln 1](C++/0266-Palindrome-Permutation/soln-1.cpp) <br> [Soln 2](C++/0266-Palindrome-Permutation/soln.cpp)|
 |0267|[Palindrome Permutation II](https://leetcode.com/problems/palindrome-permutation-ii)|Paid|36%|Medium| |[Soln 1](C++/0267-Palindrome-Permutation-II/soln.cpp)|
 |0268|[Missing Number](https://leetcode.com/problems/missing-number)|Free|51%|Easy|Array <br> Math <br> Bit Manipulation|[Soln 1](C++/0268-Missing-Number/soln.cpp)|
-|0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)|Paid|47%|Easy| |[Soln 1](C++/0270-Closest-Binary-Search-Tree-Value/soln.cpp)|
+|0270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value)|Paid|48%|Easy| |[Soln 1](C++/0270-Closest-Binary-Search-Tree-Value/soln.cpp)|
 |0271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings)|Paid|31%|Medium| |[Soln 1](C++/0271-Encode-and-Decode-Strings/soln.cpp)|
 |0272|[Closest Binary Search Tree Value II](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|Paid|50%|Hard| |[Soln 1](C++/0272-Closest-Binary-Search-Tree-Value-II/soln.cpp)|
 |0273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words)|Free|27%|Hard|Math <br> String|[Soln 1](C++/0273-Integer-to-English-Words/soln.cpp)|
@@ -265,7 +265,7 @@
 |0286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates)|Paid|54%|Medium| |[Soln 1](C++/0286-Walls-and-Gates/soln-1.cpp) <br> [Soln 2](C++/0286-Walls-and-Gates/soln-2.cpp) <br> [Soln 3](C++/0286-Walls-and-Gates/soln.cpp)|
 |0287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number)|Free|54%|Medium|Array <br> Two Pointers <br> Binary Search|[Soln 1](C++/0287-Find-the-Duplicate-Number/soln-1.cpp) <br> [Soln 2](C++/0287-Find-the-Duplicate-Number/soln-2.cpp) <br> [Soln 3](C++/0287-Find-the-Duplicate-Number/soln.cpp)|
 |0288|[Unique Word Abbreviation](https://leetcode.com/problems/unique-word-abbreviation)|Paid|22%|Medium| |[Soln 1](C++/0288-Unique-Word-Abbreviation/soln-1.cpp) <br> [Soln 2](C++/0288-Unique-Word-Abbreviation/soln.cpp)|
-|0289|[Game of Life](https://leetcode.com/problems/game-of-life)|Free|53%|Medium|Array|[Soln 1](C++/0289-Game-of-Life/soln.cpp)|
+|0289|[Game of Life](https://leetcode.com/problems/game-of-life)|Free|54%|Medium|Array|[Soln 1](C++/0289-Game-of-Life/soln.cpp)|
 |0290|[Word Pattern](https://leetcode.com/problems/word-pattern)|Free|37%|Easy|Hash Table|[Soln 1](C++/0290-Word-Pattern/soln.cpp)|
 |0292|[Nim Game](https://leetcode.com/problems/nim-game)|Free|56%|Easy|Brainteaser <br> Minimax|[Soln 1](C++/0292-Nim-Game/soln.cpp)|
 |0293|[Flip Game](https://leetcode.com/problems/flip-game)|Paid|60%|Easy| |[Soln 1](C++/0293-Flip-Game/soln.cpp)|
@@ -324,7 +324,7 @@
 |0357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|Free|48%|Medium|Math <br> Dynamic Programming <br> Backtracking|[Soln 1](C++/0357-Count-Numbers-with-Unique-Digits/soln.cpp)|
 |0358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart)|Paid|35%|Hard| |[Soln 1](C++/0358-Rearrange-String-K-Distance-Apart/soln.cpp)|
 |0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)|Paid|70%|Easy| |[Soln 1](C++/0359-Logger-Rate-Limiter/soln.cpp)|
-|0360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array)|Paid|48%|Medium| |[Soln 1](C++/0360-Sort-Transformed-Array/soln.cpp)|
+|0360|[Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array)|Paid|49%|Medium| |[Soln 1](C++/0360-Sort-Transformed-Array/soln.cpp)|
 |0361|[Bomb Enemy](https://leetcode.com/problems/bomb-enemy)|Paid|46%|Medium| |[Soln 1](C++/0361-Bomb-Enemy/soln.cpp)|
 |0362|[Design Hit Counter](https://leetcode.com/problems/design-hit-counter)|Paid|63%|Medium| |[Soln 1](C++/0362-Design-Hit-Counter/soln-1.cpp) <br> [Soln 2](C++/0362-Design-Hit-Counter/soln.cpp)|
 |0363|[Max Sum of Rectangle No Larger Than K](https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k)|Free|37%|Hard|Binary Search <br> Dynamic Programming <br> Queue|[Soln 1](C++/0363-Max-Sum-of-Rectangle-No-Larger-Than-K/soln-1.cpp) <br> [Soln 2](C++/0363-Max-Sum-of-Rectangle-No-Larger-Than-K/soln.cpp)|
@@ -336,7 +336,7 @@
 |0370|[Range Addition](https://leetcode.com/problems/range-addition)|Paid|62%|Medium| |[Soln 1](C++/0370-Range-Addition/soln-1.cpp) <br> [Soln 2](C++/0370-Range-Addition/soln.cpp)|
 |0371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers)|Free|51%|Easy|Bit Manipulation|[Soln 1](C++/0371-Sum-of-Two-Integers/soln.cpp)|
 |0372|[Super Pow](https://leetcode.com/problems/super-pow)|Free|36%|Medium|Math|[Soln 1](C++/0372-Super-Pow/soln.cpp)|
-|0374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|Free|42%|Easy|Binary Search|[Soln 1](C++/0374-Guess-Number-Higher-or-Lower/soln.cpp)|
+|0374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower)|Free|43%|Easy|Binary Search|[Soln 1](C++/0374-Guess-Number-Higher-or-Lower/soln.cpp)|
 |0375|[Guess Number Higher or Lower II](https://leetcode.com/problems/guess-number-higher-or-lower-ii)|Free|40%|Medium|Dynamic Programming <br> Minimax|[Soln 1](C++/0375-Guess-Number-Higher-or-Lower-II/soln-1.cpp) <br> [Soln 2](C++/0375-Guess-Number-Higher-or-Lower-II/soln.cpp)|
 |0376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence)|Free|39%|Medium|Dynamic Programming <br> Greedy|[Soln 1](C++/0376-Wiggle-Subsequence/soln-1.cpp) <br> [Soln 2](C++/0376-Wiggle-Subsequence/soln.cpp)|
 |0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv)|Free|45%|Medium|Dynamic Programming|[Soln 1](C++/0377-Combination-Sum-IV/soln.cpp)|
@@ -506,8 +506,8 @@
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|Free|31%|Easy|Array|[Soln 1](C++/0581-Shortest-Unsorted-Continuous-Subarray/soln.cpp)|
 |0582|[Kill Process](https://leetcode.com/problems/kill-process)|Paid|60%|Medium| |[Soln 1](C++/0582-Kill-Process/soln.cpp)|
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings)|Free|48%|Medium|String|[Soln 1](C++/0583-Delete-Operation-for-Two-Strings/soln-1.cpp) <br> [Soln 2](C++/0583-Delete-Operation-for-Two-Strings/soln.cpp)|
-|0589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/nary-tree-preorder-traversal)|Free|71%|Easy|Tree|[Soln 1](C++/0589-N-ary-Tree-Preorder-Traversal/soln-1.cpp) <br> [Soln 2](C++/0589-N-ary-Tree-Preorder-Traversal/soln.cpp)|
-|0590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/nary-tree-postorder-traversal)|Free|71%|Easy|Tree|[Soln 1](C++/0590-N-ary-Tree-Postorder-Traversal/soln-1.cpp) <br> [Soln 2](C++/0590-N-ary-Tree-Postorder-Traversal/soln.cpp)|
+|0589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/nary-tree-preorder-traversal)|Free|72%|Easy|Tree|[Soln 1](C++/0589-N-ary-Tree-Preorder-Traversal/soln-1.cpp) <br> [Soln 2](C++/0589-N-ary-Tree-Preorder-Traversal/soln.cpp)|
+|0590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/nary-tree-postorder-traversal)|Free|72%|Easy|Tree|[Soln 1](C++/0590-N-ary-Tree-Postorder-Traversal/soln-1.cpp) <br> [Soln 2](C++/0590-N-ary-Tree-Postorder-Traversal/soln.cpp)|
 |0593|[Valid Square](https://leetcode.com/problems/valid-square)|Free|43%|Medium|Math|[Soln 1](C++/0593-Valid-Square/soln-1.cpp) <br> [Soln 2](C++/0593-Valid-Square/soln.cpp)|
 |0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence)|Free|46%|Easy|Hash Table|[Soln 1](C++/0594-Longest-Harmonious-Subsequence/soln.cpp)|
 |0598|[Range Addition II](https://leetcode.com/problems/range-addition-ii)|Free|49%|Easy|Math|[Soln 1](C++/0598-Range-Addition-II/soln.cpp)|
@@ -606,7 +606,7 @@
 |0719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-kth-smallest-pair-distance)|Free|31%|Hard|Array <br> Binary Search <br> Heap|[Soln 1](C++/0719-Find-K-th-Smallest-Pair-Distance/soln-1.cpp) <br> [Soln 2](C++/0719-Find-K-th-Smallest-Pair-Distance/soln.cpp)|
 |0720|[Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)|Free|48%|Easy|Hash Table <br> Trie|[Soln 1](C++/0720-Longest-Word-in-Dictionary/soln.cpp)|
 |0722|[Remove Comments](https://leetcode.com/problems/remove-comments)|Free|34%|Medium|String|[Soln 1](C++/0722-Remove-Comments/soln-1.cpp) <br> [Soln 2](C++/0722-Remove-Comments/soln.cpp)|
-|0723|[Candy Crush](https://leetcode.com/problems/candy-crush)|Paid|68%|Medium| |[Soln 1](C++/0723-Candy-Crush/soln.cpp)|
+|0723|[Candy Crush](https://leetcode.com/problems/candy-crush)|Paid|69%|Medium| |[Soln 1](C++/0723-Candy-Crush/soln.cpp)|
 |0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|Free|44%|Easy|Array|[Soln 1](C++/0724-Find-Pivot-Index/soln.cpp)|
 |0725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts)|Free|52%|Medium|Linked List|[Soln 1](C++/0725-Split-Linked-List-in-Parts/soln.cpp)|
 |0726|[Number of Atoms](https://leetcode.com/problems/number-of-atoms)|Free|48%|Hard|Hash Table <br> Stack <br> Recursion|[Soln 1](C++/0726-Number-of-Atoms/soln.cpp)|
@@ -711,7 +711,7 @@
 |0846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights)|Free|53%|Medium|Ordered Map|[Soln 1](C++/0846-Hand-of-Straights/soln-1.cpp) <br> [Soln 2](C++/0846-Hand-of-Straights/soln.cpp)|
 |0847|[Shortest Path Visiting All Nodes](https://leetcode.com/problems/shortest-path-visiting-all-nodes)|Free|52%|Hard|Dynamic Programming <br> Breadth-first Search|[Soln 1](C++/0847-Shortest-Path-Visiting-All-Nodes/soln-1.cpp) <br> [Soln 2](C++/0847-Shortest-Path-Visiting-All-Nodes/soln.cpp)|
 |0848|[Shifting Letters](https://leetcode.com/problems/shifting-letters)|Free|44%|Medium|String|[Soln 1](C++/0848-Shifting-Letters/soln.cpp)|
-|0849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)|Free|43%|Easy|Array|[Soln 1](C++/0849-Maximize-Distance-to-Closest-Person/soln.cpp)|
+|0849|[Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person)|Free|42%|Easy|Array|[Soln 1](C++/0849-Maximize-Distance-to-Closest-Person/soln.cpp)|
 |0850|[Rectangle Area II](https://leetcode.com/problems/rectangle-area-ii)|Free|47%|Hard|Segment Tree <br> Line Sweep|[Soln 1](C++/0850-Rectangle-Area-II/soln.cpp)|
 |0851|[Loud and Rich](https://leetcode.com/problems/loud-and-rich)|Free|51%|Medium|Depth-first Search|[Soln 1](C++/0851-Loud-and-Rich/soln-1.cpp) <br> [Soln 2](C++/0851-Loud-and-Rich/soln.cpp)|
 |0852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array)|Free|71%|Easy|Binary Search|[Soln 1](C++/0852-Peak-Index-in-a-Mountain-Array/soln.cpp)|
@@ -773,7 +773,7 @@
 |0919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter)|Free|57%|Medium|Tree|[Soln 1](C++/0919-Complete-Binary-Tree-Inserter/soln-1.cpp) <br> [Soln 2](C++/0919-Complete-Binary-Tree-Inserter/soln.cpp)|
 |0921|[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|Free|73%|Medium|Stack <br> Greedy|[Soln 1](C++/0921-Minimum-Add-to-Make-Parentheses-Valid/soln-1.cpp) <br> [Soln 2](C++/0921-Minimum-Add-to-Make-Parentheses-Valid/soln.cpp)|
 |0922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii)|Free|69%|Easy|Array <br> Sort|[Soln 1](C++/0922-Sort-Array-By-Parity-II/soln-1.cpp) <br> [Soln 2](C++/0922-Sort-Array-By-Parity-II/soln.cpp)|
-|0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)|Free|36%|Medium|Two Pointers|[Soln 1](C++/0923-3Sum-With-Multiplicity/soln-1.cpp) <br> [Soln 2](C++/0923-3Sum-With-Multiplicity/soln.cpp)|
+|0923|[3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity)|Free|35%|Medium|Two Pointers|[Soln 1](C++/0923-3Sum-With-Multiplicity/soln-1.cpp) <br> [Soln 2](C++/0923-3Sum-With-Multiplicity/soln.cpp)|
 |0924|[Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread)|Free|42%|Hard|Depth-first Search <br> Union Find|[Soln 1](C++/0924-Minimize-Malware-Spread/soln.cpp)|
 |0925|[Long Pressed Name](https://leetcode.com/problems/long-pressed-name)|Free|42%|Easy|Two Pointers <br> String|[Soln 1](C++/0925-Long-Pressed-Name/soln-1.cpp) <br> [Soln 2](C++/0925-Long-Pressed-Name/soln.cpp)|
 |0926|[Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing)|Free|52%|Medium|Array|[Soln 1](C++/0926-Flip-String-to-Monotone-Increasing/soln.cpp)|
@@ -807,7 +807,7 @@
 |0957|[Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days)|Free|40%|Medium|Hash Table|[Soln 1](C++/0957-Prison-Cells-After-N-Days/soln.cpp)|
 |0958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|Free|52%|Medium|Tree|[Soln 1](C++/0958-Check-Completeness-of-a-Binary-Tree/soln.cpp)|
 |0959|[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes)|Free|66%|Medium|Depth-first Search <br> Union Find <br> Graph|[Soln 1](C++/0959-Regions-Cut-By-Slashes/soln.cpp)|
-|0961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/nrepeated-element-in-size-2n-array)|Free|73%|Easy|Hash Table|[Soln 1](C++/0961-N-Repeated-Element-in-Size-2N-Array/soln-1.cpp) <br> [Soln 2](C++/0961-N-Repeated-Element-in-Size-2N-Array/soln.cpp)|
+|0961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/nrepeated-element-in-size-2n-array)|Free|74%|Easy|Hash Table|[Soln 1](C++/0961-N-Repeated-Element-in-Size-2N-Array/soln-1.cpp) <br> [Soln 2](C++/0961-N-Repeated-Element-in-Size-2N-Array/soln.cpp)|
 |0962|[Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp)|Free|45%|Medium|Array|[Soln 1](C++/0962-Maximum-Width-Ramp/soln.cpp)|
 |0963|[Minimum Area Rectangle II](https://leetcode.com/problems/minimum-area-rectangle-ii)|Free|50%|Medium|Math <br> Geometry|[Soln 1](C++/0963-Minimum-Area-Rectangle-II/soln-1.cpp) <br> [Soln 2](C++/0963-Minimum-Area-Rectangle-II/soln.cpp)|
 |0965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree)|Free|68%|Easy|Tree|[Soln 1](C++/0965-Univalued-Binary-Tree/soln-1.cpp) <br> [Soln 2](C++/0965-Univalued-Binary-Tree/soln.cpp)|
@@ -827,7 +827,7 @@
 |0982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|Free|56%|Hard|Dynamic Programming|[Soln 1](C++/0982-Triples-With-Bitwise-AND-Equal-to-Zero/soln-1.cpp) <br> [Soln 2](C++/0982-Triples-With-Bitwise-AND-Equal-to-Zero/soln-2.cpp) <br> [Soln 3](C++/0982-Triples-With-Bitwise-AND-Equal-to-Zero/soln.cpp)|
 |0983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)|Free|60%|Medium|Dynamic Programming|[Soln 1](C++/0983-Minimum-Cost-For-Tickets/soln-1.cpp) <br> [Soln 2](C++/0983-Minimum-Cost-For-Tickets/soln.cpp)|
 |0984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb)|Free|37%|Medium|Greedy|[Soln 1](C++/0984-String-Without-AAA-or-BBB/soln-1.cpp) <br> [Soln 2](C++/0984-String-Without-AAA-or-BBB/soln.cpp)|
-|0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|Free|62%|Easy|Array|[Soln 1](C++/0985-Sum-of-Even-Numbers-After-Queries/soln-1.cpp) <br> [Soln 2](C++/0985-Sum-of-Even-Numbers-After-Queries/soln.cpp)|
+|0985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|Free|61%|Easy|Array|[Soln 1](C++/0985-Sum-of-Even-Numbers-After-Queries/soln-1.cpp) <br> [Soln 2](C++/0985-Sum-of-Even-Numbers-After-Queries/soln.cpp)|
 |0986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections)|Free|67%|Medium|Two Pointers|[Soln 1](C++/0986-Interval-List-Intersections/soln-1.cpp) <br> [Soln 2](C++/0986-Interval-List-Intersections/soln-2.cpp) <br> [Soln 3](C++/0986-Interval-List-Intersections/soln-3.cpp) <br> [Soln 4](C++/0986-Interval-List-Intersections/soln.cpp)|
 |0987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|Free|35%|Medium|Hash Table <br> Tree|[Soln 1](C++/0987-Vertical-Order-Traversal-of-a-Binary-Tree/soln-1.cpp) <br> [Soln 2](C++/0987-Vertical-Order-Traversal-of-a-Binary-Tree/soln-2.cpp) <br> [Soln 3](C++/0987-Vertical-Order-Traversal-of-a-Binary-Tree/soln.cpp)|
 |0988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf)|Free|46%|Medium|Tree <br> Depth-first Search|[Soln 1](C++/0988-Smallest-String-Starting-From-Leaf/soln-1.cpp) <br> [Soln 2](C++/0988-Smallest-String-Starting-From-Leaf/soln.cpp)|
@@ -875,7 +875,7 @@
 |1031|[Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-nonoverlapping-subarrays)|Free|57%|Medium|Array|[Soln 1](C++/1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays/soln-1.cpp) <br> [Soln 2](C++/1031-Maximum-Sum-of-Two-Non-Overlapping-Subarrays/soln.cpp)|
 |1032|[Stream of Characters](https://leetcode.com/problems/stream-of-characters)|Free|48%|Hard|Trie|[Soln 1](C++/1032-Stream-of-Characters/soln-1.cpp) <br> [Soln 2](C++/1032-Stream-of-Characters/soln-2.cpp) <br> [Soln 3](C++/1032-Stream-of-Characters/soln.cpp)|
 |1033|[Moving Stones Until Consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|Free|41%|Easy|Brainteaser|[Soln 1](C++/1033-Moving-Stones-Until-Consecutive/soln.cpp)|
-|1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border)|Free|45%|Medium|Depth-first Search|[Soln 1](C++/1034-Coloring-A-Border/soln.cpp)|
+|1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border)|Free|44%|Medium|Depth-first Search|[Soln 1](C++/1034-Coloring-A-Border/soln.cpp)|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines)|Free|56%|Medium|Array|[Soln 1](C++/1035-Uncrossed-Lines/soln-1.cpp) <br> [Soln 2](C++/1035-Uncrossed-Lines/soln.cpp)|
 |1036|[Escape a Large Maze](https://leetcode.com/problems/escape-a-large-maze)|Free|35%|Hard|Breadth-first Search|[Soln 1](C++/1036-Escape-a-Large-Maze/soln-1.cpp) <br> [Soln 2](C++/1036-Escape-a-Large-Maze/soln.cpp)|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree)|Free|80%|Medium|Binary Search Tree|[Soln 1](C++/1038-Binary-Search-Tree-to-Greater-Sum-Tree/soln.cpp)|
@@ -947,7 +947,7 @@
 |1169|[Invalid Transactions](https://leetcode.com/problems/invalid-transactions)|Free|31%|Medium|Array <br> String|[Soln 1](C++/1169-Invalid-Transactions/soln.cpp)|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|Free|59%|Easy|Array <br> String|[Soln 1](C++/1170-Compare-Strings-by-Frequency-of-the-Smallest-Character/soln.cpp)|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|Free|41%|Medium|Linked List|[Soln 1](C++/1171-Remove-Zero-Sum-Consecutive-Nodes-from-Linked-List/soln.cpp)|
-|1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks)|Free|38%|Hard|Design|[Soln 1](C++/1172-Dinner-Plate-Stacks/soln.cpp)|
+|1172|[Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks)|Free|39%|Hard|Design|[Soln 1](C++/1172-Dinner-Plate-Stacks/soln.cpp)|
 |1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|Free|34%|Medium|Array <br> String|[Soln 1](C++/1177-Can-Make-Palindrome-From-Substring/soln.cpp)|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|Free|38%|Hard|Hash Table <br> Bit Manipulation|[Soln 1](C++/1178-Number-of-Valid-Words-for-Each-Puzzle/soln.cpp)|
 |1183|[Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones)|Paid|54%|Hard| |[Soln 1](C++/1183-Maximum-Number-of-Ones/soln.cpp)|
@@ -1032,20 +1032,20 @@
 |1335|[Minimum Difficulty of a Job Schedule](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule)|Free|57%|Hard|Dynamic Programming|[Soln 1](C++/1335-Minimum-Difficulty-of-a-Job-Schedule/soln.cpp)|
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix)|Free|68%|Easy|Array <br> Binary Search|[Soln 1](C++/1337-The-K-Weakest-Rows-in-a-Matrix/soln.cpp)|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero)|Free|87%|Easy|Bit Manipulation|[Soln 1](C++/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero/soln.cpp)|
-|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)|Free|39%|Easy|Array|[Soln 1](C++/1346-Check-if-N-and-Its-Double-Exist/soln.cpp)|
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist)|Free|38%|Easy|Array|[Soln 1](C++/1346-Check-if-N-and-Its-Double-Exist/soln.cpp)|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix)|Free|77%|Easy|Array <br> Binary Search|[Soln 1](C++/1351-Count-Negative-Numbers-in-a-Sorted-Matrix/soln.cpp)|
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)|Free|68%|Easy|Sort <br> Bit Manipulation|[Soln 1](C++/1356-Sort-Integers-by-the-Number-of-1-Bits/soln.cpp)|
 |1357|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders)|Free|65%|Medium|Design|[Soln 1](C++/1357-Apply-Discount-Every-n-Orders/soln.cpp)|
 |1358|[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)|Free|57%|Medium|String|[Soln 1](C++/1358-Number-of-Substrings-Containing-All-Three-Characters/soln.cpp)|
 |1359|[Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options)|Free|57%|Hard|Math <br> Dynamic Programming|[Soln 1](C++/1359-Count-All-Valid-Pickup-and-Delivery-Options/soln-1.cpp) <br> [Soln 2](C++/1359-Count-All-Valid-Pickup-and-Delivery-Options/soln.cpp)|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number)|Free|85%|Easy|Array <br> Hash Table|[Soln 1](C++/1365-How-Many-Numbers-are-Smaller-Than-the-Current-Number/soln.cpp)|
-|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes)|Free|52%|Medium|Array <br> Sort|[Soln 1](C++/1366-Rank-Teams-by-Votes/soln.cpp)|
+|1366|[Rank Teams by Votes](https://leetcode.com/problems/rank-teams-by-votes)|Free|51%|Medium|Array <br> Sort|[Soln 1](C++/1366-Rank-Teams-by-Votes/soln.cpp)|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree)|Free|39%|Medium|Linked List <br> Dynamic Programming <br> Tree|[Soln 1](C++/1367-Linked-List-in-Binary-Tree/soln.cpp)|
 |1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid)|Free|53%|Hard|Breadth-first Search|[Soln 1](C++/1368-Minimum-Cost-to-Make-at-Least-One-Valid-Path-in-a-Grid/soln.cpp)|
 |1370|[Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string)|Free|75%|Easy|String <br> Sort|[Soln 1](C++/1370-Increasing-Decreasing-String/soln.cpp)|
 |1373|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)|Free|42%|Hard|Dynamic Programming <br> Binary Search Tree|[Soln 1](C++/1373-Maximum-Sum-BST-in-Binary-Tree/soln.cpp)|
-|1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)|Free|76%|Easy|String|[Soln 1](C++/1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/soln.cpp)|
-|1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii)|Free|61%|Medium|Array|[Soln 1](C++/1375-Bulb-Switcher-III/soln.cpp)|
+|1374|[Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts)|Free|75%|Easy|String|[Soln 1](C++/1374-Generate-a-String-With-Characters-That-Have-Odd-Counts/soln.cpp)|
+|1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii)|Free|62%|Medium|Array|[Soln 1](C++/1375-Bulb-Switcher-III/soln.cpp)|
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)|Free|54%|Medium|Depth-first Search|[Soln 1](C++/1376-Time-Needed-to-Inform-All-Employees/soln-1.cpp) <br> [Soln 2](C++/1376-Time-Needed-to-Inform-All-Employees/soln.cpp)|
 |1377|[Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|Free|33%|Hard|Depth-first Search|[Soln 1](C++/1377-Frog-Position-After-T-Seconds/soln.cpp)|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)|Free|68%|Easy|Array||
@@ -1081,13 +1081,13 @@
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree)|Free|70%|Medium|Tree <br> Depth-first Search|[Soln 1](C++/1448-Count-Good-Nodes-in-Binary-Tree/soln.cpp)|
 |1449|[Form Largest Integer With Digits That Add up to Target](https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target)|Free|41%|Hard|String <br> Dynamic Programming|[Soln 1](C++/1449-Form-Largest-Integer-With-Digits-That-Add-Up-to-Target/soln.cpp)|
 |1450|[Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time)|Free|79%|Easy|Array|[Soln 1](C++/1450-Number-of-Students-Doing-Homework-at-a-Given-Time/soln.cpp)|
-|1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)|Free|66%|Easy|String|[Soln 1](C++/1455-Check-if-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/soln.cpp)|
+|1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence)|Free|65%|Easy|String|[Soln 1](C++/1455-Check-if-a-Word-Occurs-As-a-Prefix-of-Any-Word-in-a-Sentence/soln.cpp)|
 |1456|[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)|Free|51%|Medium|String <br> Sliding Window|[Soln 1](C++/1456-Maximum-Number-of-Vowels-in-a-Substring-of-Given-Length/soln.cpp)|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudopalindromic-paths-in-a-binary-tree)|Free|67%|Medium|Bit Manipulation <br> Tree <br> Depth-first Search|[Soln 1](C++/1457-Pseudo-Palindromic-Paths-in-a-Binary-Tree/soln.cpp)|
 |1458|[Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences)|Free|41%|Hard|Dynamic Programming|[Soln 1](C++/1458-Max-Dot-Product-of-Two-Subsequences/soln.cpp)|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays)|Free|77%|Easy|Array|[Soln 1](C++/1460-Make-Two-Arrays-Equal-by-Reversing-Sub-arrays/soln.cpp)|
 |1461|[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)|Free|43%|Medium|String <br> Bit Manipulation|[Soln 1](C++/1461-Check-If-a-String-Contains-All-Binary-Codes-of-Size-K/soln.cpp)|
-|1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv)|Free|40%|Medium|Graph|[Soln 1](C++/1462-Course-Schedule-IV/soln.cpp)|
+|1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv)|Free|41%|Medium|Graph|[Soln 1](C++/1462-Course-Schedule-IV/soln.cpp)|
 |1463|[Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii)|Free|63%|Hard|Dynamic Programming|[Soln 1](C++/1463-Cherry-Pickup-II/soln.cpp)|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)|Free|80%|Easy|Array|[Soln 1](C++/1464-Maximum-Product-of-Two-Elements-in-an-Array/soln.cpp)|
 |1465|[Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts)|Free|31%|Medium|Array|[Soln 1](C++/1465-Maximum-Area-of-a-Piece-of-Cake-After-Horizontal-and-Vertical-Cuts/soln.cpp)|
@@ -1096,9 +1096,9 @@
 |1472|[Design Browser History](https://leetcode.com/problems/design-browser-history)|Free|63%|Medium| |[Soln 1](C++/1472-Design-Browser-History/soln.cpp)|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|Free|78%|Easy| |[Soln 1](C++/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/soln.cpp)|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries)|Free|90%|Medium| |[Soln 1](C++/1476-Subrectangle-Queries/soln.cpp)|
-|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-nonoverlapping-subarrays-each-with-target-sum)|Free|24%|Medium| |[Soln 1](C++/1477-Find-Two-Non-Overlapping-Sub-arrays-Each-with-Target-Sum/soln.cpp)|
+|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-nonoverlapping-subarrays-each-with-target-sum)|Free|25%|Medium| |[Soln 1](C++/1477-Find-Two-Non-Overlapping-Sub-arrays-Each-with-Target-Sum/soln.cpp)|
 |1478|[Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes)|Free|54%|Hard| |[Soln 1](C++/1478-Allocate-Mailboxes/soln.cpp)|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Free|95%|Easy| |[Soln 1](C++/1480-Running-Sum-of-1d-Array/soln.cpp)|
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|Free|54%|Medium| |[Soln 1](C++/1481-Least-Number-of-Unique-Integers-After-K-Removals/soln.cpp)|
-|1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|Free|40%|Medium| |[Soln 1](C++/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/soln.cpp)|
-|1483|[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)|Free|23%|Hard| |[Soln 1](C++/1483-Kth-Ancestor-of-a-Tree-Node/soln.cpp)|
+|1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|Free|42%|Medium| |[Soln 1](C++/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/soln.cpp)|
+|1483|[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)|Free|25%|Hard| |[Soln 1](C++/1483-Kth-Ancestor-of-a-Tree-Node/soln.cpp)|
