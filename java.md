@@ -43,7 +43,7 @@
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word)|Free|33%|Easy|String|[Soln 1](Java/0058-Length-of-Last-Word/soln.java)|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence)|Free|38%|Medium|Math <br> Backtracking|[Soln 1](Java/0060-Permutation-Sequence/soln.java)|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list)|Free|30%|Medium|Linked List <br> Two Pointers|[Soln 1](Java/0061-Rotate-List/soln.java)|
-|0062|[Unique Paths](https://leetcode.com/problems/unique-paths)|Free|53%|Medium|Array <br> Dynamic Programming|[Soln 1](Java/0062-Unique-Paths/soln.java)|
+|0062|[Unique Paths](https://leetcode.com/problems/unique-paths)|Free|54%|Medium|Array <br> Dynamic Programming|[Soln 1](Java/0062-Unique-Paths/soln.java)|
 |0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii)|Free|34%|Medium|Array <br> Dynamic Programming|[Soln 1](Java/0063-Unique-Paths-II/soln.java)|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum)|Free|54%|Medium|Array <br> Dynamic Programming|[Soln 1](Java/0064-Minimum-Path-Sum/soln.java)|
 |0066|[Plus One](https://leetcode.com/problems/plus-one)|Free|42%|Easy|Array|[Soln 1](Java/0066-Plus-One/soln.java)|
@@ -363,14 +363,14 @@
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers)|Free|32%|Easy|Array|[Soln 1](Java/0605-Can-Place-Flowers/soln.java)|
 |0606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree)|Free|54%|Easy|String <br> Tree|[Soln 1](Java/0606-Construct-String-from-Binary-Tree/soln.java)|
 |0609|[Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system)|Free|59%|Medium|Hash Table <br> String|[Soln 1](Java/0609-Find-Duplicate-File-in-System/soln.java)|
-|0616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string)|Paid|42%|Medium| |[Soln 1](Java/0616-Add-Bold-Tag-in-String/soln.java)|
+|0616|[Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string)|Paid|43%|Medium| |[Soln 1](Java/0616-Add-Bold-Tag-in-String/soln.java)|
 |0617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees)|Free|74%|Easy|Tree||
 |0625|[Minimum Factorization](https://leetcode.com/problems/minimum-factorization)|Paid|33%|Medium| |[Soln 1](Java/0625-Minimum-Factorization/soln.java)|
 |0628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)|Free|47%|Easy|Array <br> Math|[Soln 1](Java/0628-Maximum-Product-of-Three-Numbers/soln.java)|
 |0633|[Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers)|Free|32%|Easy|Math|[Soln 1](Java/0633-Sum-of-Square-Numbers/soln.java)|
 |0634|[Find the Derangement of An Array](https://leetcode.com/problems/find-the-derangement-of-an-array)|Paid|40%|Medium| |[Soln 1](Java/0634-Find-the-Derangement-of-An-Array/soln-1.java) <br> [Soln 2](Java/0634-Find-the-Derangement-of-An-Array/soln.java)|
 |0636|[Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions)|Free|52%|Medium|Stack|[Soln 1](Java/0636-Exclusive-Time-of-Functions/soln.java)|
-|0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|Free|62%|Easy|Tree|[Soln 1](Java/0637-Average-of-Levels-in-Binary-Tree/soln.java)|
+|0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree)|Free|63%|Easy|Tree|[Soln 1](Java/0637-Average-of-Levels-in-Binary-Tree/soln.java)|
 |0641|[Design Circular Deque](https://leetcode.com/problems/design-circular-deque)|Free|52%|Medium|Design <br> Queue|[Soln 1](Java/0641-Design-Circular-Deque/soln.java)|
 |0643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i)|Free|41%|Easy|Array|[Soln 1](Java/0643-Maximum-Average-Subarray-I/soln.java)|
 |0644|[Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii)|Paid|32%|Hard| |[Soln 1](Java/0644-Maximum-Average-Subarray-II/soln.java)|
@@ -498,7 +498,7 @@
 |0834|[Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)|Free|43%|Hard|Tree <br> Depth-first Search|[Soln 1](Java/0834-Sum-of-Distances-in-Tree/soln.java)|
 |0836|[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap)|Free|49%|Easy|Math|[Soln 1](Java/0836-Rectangle-Overlap/soln-1.java) <br> [Soln 2](Java/0836-Rectangle-Overlap/soln.java)|
 |0838|[Push Dominoes](https://leetcode.com/problems/push-dominoes)|Free|48%|Medium|Two Pointers <br> Dynamic Programming|[Soln 1](Java/0838-Push-Dominoes/soln.java)|
-|0839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups)|Free|38%|Hard|Depth-first Search <br> Union Find <br> Graph|[Soln 1](Java/0839-Similar-String-Groups/soln.java)|
+|0839|[Similar String Groups](https://leetcode.com/problems/similar-string-groups)|Free|39%|Hard|Depth-first Search <br> Union Find <br> Graph|[Soln 1](Java/0839-Similar-String-Groups/soln.java)|
 |0841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)|Free|64%|Medium|Depth-first Search <br> Graph|[Soln 1](Java/0841-Keys-and-Rooms/soln.java)|
 |0843|[Guess the Word](https://leetcode.com/problems/guess-the-word)|Free|46%|Hard|Minimax|[Soln 1](Java/0843-Guess-the-Word/soln.java)|
 |0844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare)|Free|46%|Easy|Two Pointers <br> Stack|[Soln 1](Java/0844-Backspace-String-Compare/soln.java)|
@@ -630,7 +630,7 @@
 |1034|[Coloring A Border](https://leetcode.com/problems/coloring-a-border)|Free|44%|Medium|Depth-first Search|[Soln 1](Java/1034-Coloring-A-Border/soln.java)|
 |1035|[Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines)|Free|56%|Medium|Array|[Soln 1](Java/1035-Uncrossed-Lines/soln.java)|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang)|Free|38%|Easy|Math|[Soln 1](Java/1037-Valid-Boomerang/soln.java)|
-|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle)|Free|48%|Medium|Math|[Soln 1](Java/1041-Robot-Bounded-in-Circle/soln.java)|
+|1041|[Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle)|Free|49%|Medium|Math|[Soln 1](Java/1041-Robot-Bounded-in-Circle/soln.java)|
 |1042|[Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent)|Free|48%|Easy|Graph|[Soln 1](Java/1042-Flower-Planting-With-No-Adjacent/soln.java)|
 |1043|[Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum)|Free|65%|Medium|Graph|[Soln 1](Java/1043-Partition-Array-for-Maximum-Sum/soln.java)|
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight)|Free|62%|Easy|Heap <br> Greedy|[Soln 1](Java/1046-Last-Stone-Weight/soln.java)|
@@ -704,7 +704,7 @@
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid)|Free|61%|Easy|Array|[Soln 1](Java/1260-Shift-2D-Grid/soln.java)|
 |1271|[Hexspeak](https://leetcode.com/problems/hexspeak)|Paid|54%|Easy| |[Soln 1](Java/1271-Hexspeak/soln.java)|
 |1272|[Remove Interval](https://leetcode.com/problems/remove-interval)|Paid|58%|Medium| |[Soln 1](Java/1272-Remove-Interval/soln.java)|
-|1273|[Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes)|Paid|63%|Medium| |[Soln 1](Java/1273-Delete-Tree-Nodes/soln.java)|
+|1273|[Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes)|Paid|64%|Medium| |[Soln 1](Java/1273-Delete-Tree-Nodes/soln.java)|
 |1274|[Number of Ships in a Rectangle](https://leetcode.com/problems/number-of-ships-in-a-rectangle)|Paid|65%|Hard| |[Soln 1](Java/1274-Number-of-Ships-in-a-Rectangle/soln.java)|
 |1287|[Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array)|Free|60%|Easy|Array|[Soln 1](Java/1287-Element-Appearing-More-Than-25-in-Sorted-Array/soln.java)|
 |1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)|Free|59%|Medium|Line Sweep|[Soln 1](Java/1288-Remove-Covered-Intervals/soln.java)|
@@ -712,7 +712,7 @@
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side)|Free|76%|Easy|Array|[Soln 1](Java/1299-Replace-Elements-with-Greatest-Element-on-Right-Side/soln.java)|
 |1300|[Sum of Mutated Array Closest to Target](https://leetcode.com/problems/sum-of-mutated-array-closest-to-target)|Free|45%|Medium|Array <br> Binary Search|[Soln 1](Java/1300-Sum-of-Mutated-Array-Closest-to-Target/soln.java)|
 |1301|[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score)|Free|37%|Hard|Dynamic Programming|[Soln 1](Java/1301-Number-of-Paths-with-Max-Score/soln.java)|
-|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)|Free|83%|Medium|Tree <br> Depth-first Search|[Soln 1](Java/1302-Deepest-Leaves-Sum/soln.java)|
+|1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum)|Free|84%|Medium|Tree <br> Depth-first Search|[Soln 1](Java/1302-Deepest-Leaves-Sum/soln.java)|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero)|Free|76%|Easy|Array|[Soln 1](Java/1304-Find-N-Unique-Integers-Sum-Up-to-Zero/soln.java)|
 |1305|[All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees)|Free|76%|Medium|Sort <br> Tree|[Soln 1](Java/1305-All-Elements-in-Two-Binary-Search-Trees/soln.java)|
 |1306|[Jump Game III](https://leetcode.com/problems/jump-game-iii)|Free|60%|Medium|Breadth-first Search <br> Graph|[Soln 1](Java/1306-Jump-Game-III/soln.java)|
@@ -727,7 +727,7 @@
 |1317|[Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-nozero-integers)|Free|57%|Easy|Math|[Soln 1](Java/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/soln.java)|
 |1318|[Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c)|Free|62%|Medium|Bit Manipulation|[Soln 1](Java/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-C/soln.java)|
 |1319|[Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected)|Free|52%|Medium|Depth-first Search <br> Breadth-first Search <br> Union Find|[Soln 1](Java/1319-Number-of-Operations-to-Make-Network-Connected/soln.java)|
-|1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|Free|61%|Hard|Dynamic Programming|[Soln 1](Java/1320-Minimum-Distance-to-Type-a-Word-Using-Two-Fingers/soln.java)|
+|1320|[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)|Free|62%|Hard|Dynamic Programming|[Soln 1](Java/1320-Minimum-Distance-to-Type-a-Word-Using-Two-Fingers/soln.java)|
 |1323|[Maximum 69 Number](https://leetcode.com/problems/maximum-69-number)|Free|78%|Easy|Math|[Soln 1](Java/1323-Maximum-69-Number/soln.java)|
 |1324|[Print Words Vertically](https://leetcode.com/problems/print-words-vertically)|Free|58%|Medium|String|[Soln 1](Java/1324-Print-Words-Vertically/soln.java)|
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value)|Free|73%|Medium|Tree|[Soln 1](Java/1325-Delete-Leaves-with-a-Given-Value/soln.java)|
@@ -777,7 +777,7 @@
 |1436|[Destination City](https://leetcode.com/problems/destination-city)|Free|78%|Easy|String|[Soln 1](Java/1436-Destination-City/soln.java)|
 |1437|[Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away)|Free|64%|Medium|Array|[Soln 1](Java/1437-Check-if-all-1s-Are-at-Least-Length-K-Places-Away/soln.java)|
 |1441|[Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations)|Free|69%|Easy|Stack|[Soln 1](Java/1441-Build-An-Array-With-Stack-Operations/soln.java)|
-|1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|Free|68%|Medium|Array <br> Math <br> Bit Manipulation|[Soln 1](Java/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/soln.java)|
+|1442|[Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|Free|69%|Medium|Array <br> Math <br> Bit Manipulation|[Soln 1](Java/1442-Count-Triplets-That-Can-Form-Two-Arrays-of-Equal-XOR/soln.java)|
 |1443|[Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree)|Free|56%|Medium|Tree <br> Depth-first Search|[Soln 1](Java/1443-Minimum-Time-to-Collect-All-Apples-in-a-Tree/soln.java)|
 |1446|[Consecutive Characters](https://leetcode.com/problems/consecutive-characters)|Free|61%|Easy|String|[Soln 1](Java/1446-Consecutive-Characters/soln.java)|
 |1447|[Simplified Fractions](https://leetcode.com/problems/simplified-fractions)|Free|60%|Medium|Math|[Soln 1](Java/1447-Simplified-Fractions/soln.java)|
@@ -798,7 +798,7 @@
 |1472|[Design Browser History](https://leetcode.com/problems/design-browser-history)|Free|63%|Medium| |[Soln 1](Java/1472-Design-Browser-History/soln.java)|
 |1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop)|Free|76%|Easy| |[Soln 1](Java/1475-Final-Prices-With-a-Special-Discount-in-a-Shop/soln.java)|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries)|Free|90%|Medium| |[Soln 1](Java/1476-Subrectangle-Queries/soln.java)|
-|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-nonoverlapping-subarrays-each-with-target-sum)|Free|26%|Medium| |[Soln 1](Java/1477-Find-Two-Non-Overlapping-Sub-arrays-Each-with-Target-Sum/soln.java)|
+|1477|[Find Two Non-overlapping Sub-arrays Each With Target Sum](https://leetcode.com/problems/find-two-nonoverlapping-subarrays-each-with-target-sum)|Free|27%|Medium| |[Soln 1](Java/1477-Find-Two-Non-Overlapping-Sub-arrays-Each-with-Target-Sum/soln.java)|
 |1478|[Allocate Mailboxes](https://leetcode.com/problems/allocate-mailboxes)|Free|55%|Hard| |[Soln 1](Java/1478-Allocate-Mailboxes/soln.java)|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array)|Free|92%|Easy| |[Soln 1](Java/1480-Running-Sum-of-1d-Array/soln.java)|
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|Free|54%|Medium| |[Soln 1](Java/1481-Least-Number-of-Unique-Integers-After-K-Removals/soln.java)|
@@ -807,7 +807,7 @@
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|Free|87%|Easy| |[Soln 1](Java/1486-XOR-Operation-in-an-Array/soln.java)|
 |1487|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique)|Free|28%|Medium| |[Soln 1](Java/1487-Making-File-Names-Unique/soln.java)|
 |1491|[Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary)|Free|73%|Easy| |[Soln 1](Java/1491-Average-Salary-Excluding-the-Minimum-and-Maximum-Salary/soln.java)|
-|1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n)|Free|73%|Medium| |[Soln 1](Java/1492-The-kth-Factor-of-n/soln.java)|
-|1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|Free|56%|Medium| |[Soln 1](Java/1493-Longest-Subarray-of-1s-after-Deleting-one-Element/soln.java)|
-|1496|[Path Crossing](https://leetcode.com/problems/path-crossing)|Free|55%|Easy| |[Soln 1](Java/1496-Path-Crossing/soln.java)|
-|1497|[Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k)|Free|41%|Medium| |[Soln 1](Java/1497-Check-If-Array-Pairs-Are-Divisible-by-K/soln.java)|
+|1492|[The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n)|Free|72%|Medium| |[Soln 1](Java/1492-The-kth-Factor-of-n/soln.java)|
+|1493|[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)|Free|57%|Medium| |[Soln 1](Java/1493-Longest-Subarray-of-1s-after-Deleting-one-Element/soln.java)|
+|1496|[Path Crossing](https://leetcode.com/problems/path-crossing)|Free|56%|Easy| |[Soln 1](Java/1496-Path-Crossing/soln.java)|
+|1497|[Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k)|Free|43%|Medium| |[Soln 1](Java/1497-Check-If-Array-Pairs-Are-Divisible-by-K/soln.java)|
