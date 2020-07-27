@@ -18,7 +18,7 @@ import sys
 from lc_crawler import get_problems_info, gen_url
 
 
-def random_pick(n, lang, difficulty, todo=True, free=True):
+def random_pick(n, lang, difficulty, todo, choice):
     """Pick n questions of a specific language with specific difficulty."""
 
     readme_path_dict = {'python': '../python3.md',
@@ -51,9 +51,10 @@ def random_pick(n, lang, difficulty, todo=True, free=True):
             if 'difficulty' in problems[idx] and
             problems[idx]['difficulty'] == difficulty]
 
-    # remove paid question if free is True
-    if free:
+    if choice == 'free':
         cands = [idx for idx in cands if not problems[idx]['paid_only']]
+    elif choice == 'paid':
+        cands = [idx for idx in cands if problems[idx]['paid_only']]
 
     # pick n problems randomly
     actual_n = min(n, len(cands))
@@ -69,14 +70,14 @@ if __name__ == "__main__":
     parser.add_argument('-n', '--number', type=int, default=2, help='number of questions')
     parser.add_argument('-d', '--diff', type=int, default=2, choices=[1,2,3], help='Difficulty: easy(1), medium(2), hard(3)')
     parser.add_argument('-l', '--lang', type=str, default='c++',
-            choices=['python', 'java', 'c++'], help='Programming language')
+            choices=['python', 'java', 'c++'], help='Programming language: python/java/c++')
     parser.add_argument('-t', '--todo', default=False, action='store_true', help='Set to only pick unfinished problems')
-    parser.add_argument('-f', '--free', default=False, action='store_true', help="Set to only pick free problems")
+    parser.add_argument('-c', '--choice', type=str, default='all',
+            choices=['all', 'free', 'paid'], help='Question choice: all/free/paid')
     args = parser.parse_args()
     num = args.number
     lang = args.lang
     difficulty = args.diff
     todo = args.todo
-    free = args.free
-    # print(f"pick {num} {diff_dict[difficulty]} problems for {lang.capitalize()}.")
-    random_pick(num, lang, difficulty, todo, free)
+    choice = args.choice
+    random_pick(num, lang, difficulty, todo, choice)
