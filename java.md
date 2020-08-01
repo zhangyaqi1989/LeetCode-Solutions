@@ -1,5 +1,5 @@
 # Java
-**856 (341 Easy; 415 Medium; 100 Hard) Problems listed.**
+**861 (341 Easy; 420 Medium; 100 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -665,6 +665,7 @@
 |1093|[Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample)|Free|48%|Medium|Math <br> Two Pointers|[Soln 1](Java/1093-Statistics-from-a-Large-Sample/soln.java)|
 |1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k)|Paid|61%|Easy| |[Soln 1](Java/1099-Two-Sum-Less-Than-K/soln.java)|
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-klength-substrings-with-no-repeated-characters)|Paid|73%|Medium| |[Soln 1](Java/1100-Find-K-Length-Substrings-With-No-Repeated-Characters/soln.java)|
+|1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends)|Paid|66%|Medium| |[Soln 1](Java/1101-The-Earliest-Moment-When-Everyone-Become-Friends/soln.java)|
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value)|Paid|49%|Medium| ||
 |1104|[Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree)|Free|72%|Medium|Math <br> Tree|[Soln 1](Java/1104-Distribute-Candies-to-People/soln.java)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|Free|87%|Easy|String|[Soln 1](Java/1108-Defanging-an-IP-Address/soln.java)|
@@ -687,6 +688,7 @@
 |1144|[Decrease Elements To Make Array Zigzag](https://leetcode.com/problems/decrease-elements-to-make-array-zigzag)|Free|45%|Medium|Array|[Soln 1](Java/1144-Decrease-Elements-to-Make-Array-Zigzag/soln.java)|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|Free|59%|Hard|Dynamic Programming <br> Rolling Hash|[Soln 1](Java/1147-Longest-Chunked-Palindrome-Decomposition/soln-1.java) <br> [Soln 2](Java/1147-Longest-Chunked-Palindrome-Decomposition/soln.java)|
 |1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array)|Paid|59%|Easy| |[Soln 1](Java/1150-Check-if-a-Number-is-Majority-Element-in-a-Sorted-Array/soln.java)|
+|1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|Paid|59%|Medium| |[Soln 1](Java/1151-Minimum-Swaps-to-Group-All-1s-Together/soln.java)|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year)|Free|49%|Easy|Math|[Soln 1](Java/1154-Day-of-the-Year/soln.java)|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|Free|68%|Easy|Array <br> Hash Table|[Soln 1](Java/1160-Find-Words-That-Can-Be-Formed-By-Characters/soln-1.java) <br> [Soln 2](Java/1160-Find-Words-That-Can-Be-Formed-By-Characters/soln.java)|
 |1165|[Single-Row Keyboard](https://leetcode.com/problems/singlerow-keyboard)|Paid|85%|Easy| |[Soln 1](Java/1165-Single-Row-Keyboard/soln.java)|
@@ -718,8 +720,10 @@
 |1243|[Array Transformation](https://leetcode.com/problems/array-transformation)|Paid|51%|Easy| |[Soln 1](Java/1243-Array-Transformation/soln.java)|
 |1245|[Tree Diameter](https://leetcode.com/problems/tree-diameter)|Paid|60%|Medium| |[Soln 1](Java/1245-Tree-Diameter/soln.java)|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|Free|78%|Easy|Array|[Soln 1](Java/1252-Cells-with-Odd-Values-in-a-Matrix/soln.java)|
+|1256|[Encode Number](https://leetcode.com/problems/encode-number)|Paid|66%|Medium| |[Soln 1](Java/1256-Encode-Number/soln.java)|
 |1257|[Smallest Common Region](https://leetcode.com/problems/smallest-common-region)|Paid|59%|Medium| |[Soln 1](Java/1257-Smallest-Common-Region/soln.java)|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid)|Free|61%|Easy|Array|[Soln 1](Java/1260-Shift-2D-Grid/soln.java)|
+|1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)|Paid|95%|Medium| |[Soln 1](Java/1265-Print-Immutable-Linked-List-in-Reverse/soln.java)|
 |1271|[Hexspeak](https://leetcode.com/problems/hexspeak)|Paid|54%|Easy| |[Soln 1](Java/1271-Hexspeak/soln-1.java) <br> [Soln 2](Java/1271-Hexspeak/soln.java)|
 |1272|[Remove Interval](https://leetcode.com/problems/remove-interval)|Paid|59%|Medium| |[Soln 1](Java/1272-Remove-Interval/soln.java)|
 |1273|[Delete Tree Nodes](https://leetcode.com/problems/delete-tree-nodes)|Paid|64%|Medium| |[Soln 1](Java/1273-Delete-Tree-Nodes/soln.java)|
@@ -794,6 +798,7 @@
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts)|Paid|53%|Easy| |[Soln 1](Java/1427-Perform-String-Shifts/soln.java)|
 |1428|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|Paid|47%|Medium| |[Soln 1](Java/1428-Leftmost-Column-with-at-Least-a-One/soln.java)|
 |1429|[First Unique Number](https://leetcode.com/problems/first-unique-number)|Paid|47%|Medium| |[Soln 1](Java/1429-First-Unique-Number/soln.java)|
+|1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)|Paid|45%|Medium| |[Soln 1](Java/1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/soln.java)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|Free|89%|Easy|Array|[Soln 1](Java/1431-Kids-With-the-Greatest-Number-of-Candies/soln.java)|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|Free|66%|Medium|String <br> Greedy|[Soln 1](Java/1433-Check-if-a-String-Can-Break-Another-String/soln.java)|
 |1434|[Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|Free|38%|Hard|Dynamic Programming <br> Bit Manipulation|[Soln 1](Java/1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/soln.java)|

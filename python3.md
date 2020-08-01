@@ -1,5 +1,5 @@
 # Python3
-**1286 (369 Easy; 667 Medium; 250 Hard) Problems listed.**
+**1292 (369 Easy; 673 Medium; 250 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -1019,6 +1019,7 @@
 |1093|[Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample)|Free|48%|Medium|Math <br> Two Pointers|[Soln 1](Python3/1093-Statistics-from-a-Large-Sample/soln.py)|
 |1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k)|Paid|61%|Easy| |[Soln 1](Python3/1099-Two-Sum-Less-Than-K/soln.py)|
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-klength-substrings-with-no-repeated-characters)|Paid|73%|Medium| |[Soln 1](Python3/1100-Find-K-Length-Substrings-With-No-Repeated-Characters/soln-1.py) <br> [Soln 2](Python3/1100-Find-K-Length-Substrings-With-No-Repeated-Characters/soln.py)|
+|1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends)|Paid|66%|Medium| |[Soln 1](Python3/1101-The-Earliest-Moment-When-Everyone-Become-Friends/soln.py)|
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value)|Paid|49%|Medium| |[Soln 1](Python3/1102-Path-With-Maximum-Minimum-Value/soln.py)|
 |1103|[Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people)|Free|60%|Easy|Math|[Soln 1](Python3/1103-Path-in-Zigzag-Labelled-Binary-Tree/soln.py)|
 |1105|[Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves)|Free|58%|Medium|Dynamic Programming|[Soln 1](Python3/1105-Filling-Bookcase-Shelves/soln-1.py) <br> [Soln 2](Python3/1105-Filling-Bookcase-Shelves/soln.py)|
@@ -1051,6 +1052,7 @@
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array)|Free|37%|Medium|Array|[Soln 1](Python3/1146-Snapshot-Array/soln-1.py) <br> [Soln 2](Python3/1146-Snapshot-Array/soln-2.py) <br> [Soln 3](Python3/1146-Snapshot-Array/soln.py)|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|Free|59%|Hard|Dynamic Programming <br> Rolling Hash|[Soln 1](Python3/1147-Longest-Chunked-Palindrome-Decomposition/soln-1.py) <br> [Soln 2](Python3/1147-Longest-Chunked-Palindrome-Decomposition/soln.py)|
 |1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array)|Paid|59%|Easy| |[Soln 1](Python3/1150-Check-if-a-Number-is-Majority-Element-in-a-Sorted-Array/soln.py)|
+|1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|Paid|59%|Medium| |[Soln 1](Python3/1151-Minimum-Swaps-to-Group-All-1s-Together/soln.py)|
 |1154|[Day of the Year](https://leetcode.com/problems/day-of-the-year)|Free|49%|Easy|Math|[Soln 1](Python3/1154-Day-of-the-Year/soln.py)|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray)|Free|39%|Hard|Array <br> Binary Search <br> Segment Tree|[Soln 1](Python3/1157-Online-Majority-Element-in-Subarray/soln.py)|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|Free|68%|Easy|Array <br> Hash Table|[Soln 1](Python3/1160-Find-Words-That-Can-Be-Formed-by-Characters/soln.py)|
@@ -1064,6 +1066,7 @@
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance)|Paid|54%|Easy| |[Soln 1](Python3/1176-Diet-Plan-Performance/soln.py)|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|Free|38%|Hard|Hash Table <br> Bit Manipulation|[Soln 1](Python3/1178-Number-of-Valid-Words-for-Each-Puzzle/soln.py)|
 |1180|[Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|Paid|77%|Easy| |[Soln 1](Python3/1180-Count-Substrings-with-Only-One-Distinct-Letter/soln.py)|
+|1182|[Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color)|Paid|53%|Medium| |[Soln 1](Python3/1182-Shortest-Distance-to-Target-Color/soln.py)|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops)|Free|54%|Easy|Array|[Soln 1](Python3/1184-Distance-Between-Bus-Stops/soln.py)|
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week)|Free|64%|Easy|Array|[Soln 1](Python3/1185-Day-of-the-Week/soln.py)|
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing)|Free|42%|Hard|Dynamic Programming|[Soln 1](Python3/1187-Make-Array-Strictly-Increasing/soln-1.py) <br> [Soln 2](Python3/1187-Make-Array-Strictly-Increasing/soln.py)|
@@ -1105,10 +1108,12 @@
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)|Free|56%|Medium|Two Pointers|[Soln 1](Python3/1248-Count-Number-of-Nice-Subarrays/soln.py)|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|Free|78%|Easy|Array|[Soln 1](Python3/1252-Cells-with-Odd-Values-in-a-Matrix/soln.py)|
 |1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)|Free|60%|Medium|Depth-first Search|[Soln 1](Python3/1254-Number-of-Closed-Islands/soln.py)|
+|1256|[Encode Number](https://leetcode.com/problems/encode-number)|Paid|66%|Medium| |[Soln 1](Python3/1256-Encode-Number/soln.py)|
 |1257|[Smallest Common Region](https://leetcode.com/problems/smallest-common-region)|Paid|59%|Medium| |[Soln 1](Python3/1257-Smallest-Common-Region/soln.py)|
 |1258|[Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences)|Paid|64%|Medium| |[Soln 1](Python3/1258-Synonymous-Sentences/soln.py)|
 |1260|[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid)|Free|61%|Easy|Array|[Soln 1](Python3/1260-Shift-2D-Grid/soln.py)|
 |1262|[Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three)|Free|48%|Medium|Dynamic Programming|[Soln 1](Python3/1262-Greatest-Sum-Divisible-by-Tree/soln.py)|
+|1265|[Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse)|Paid|95%|Medium| |[Soln 1](Python3/1265-Print-Immutable-Linked-List-in-Reverse/soln.py)|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points)|Free|80%|Easy|Array <br> Geometry|[Soln 1](Python3/1266-Minimum-Time-Visiting-All-Points/soln.py)|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate)|Free|58%|Medium|Array <br> Graph|[Soln 1](Python3/1267-Count-Servers-that-Communicate/soln.py)|
 |1271|[Hexspeak](https://leetcode.com/problems/hexspeak)|Paid|54%|Easy| |[Soln 1](Python3/1271-Hexspeak/soln.py)|
@@ -1205,6 +1210,7 @@
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts)|Paid|53%|Easy| |[Soln 1](Python3/1427-Perform-String-Shifts/soln.py)|
 |1428|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|Paid|47%|Medium| |[Soln 1](Python3/1428-Leftmost-Column-with-at-Least-a-One/soln.py)|
 |1429|[First Unique Number](https://leetcode.com/problems/first-unique-number)|Paid|47%|Medium| |[Soln 1](Python3/1429-First-Unique-Number/soln.py)|
+|1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)|Paid|45%|Medium| |[Soln 1](Python3/1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/soln.py)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|Free|89%|Easy|Array|[Soln 1](Python3/1431-Kids-With-the-Greatest-Number-of-Candies/soln.py)|
 |1432|[Max Difference You Can Get From Changing an Integer](https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer)|Free|43%|Medium|String|[Soln 1](Python3/1432-Max-Difference-You-Can-Get-From-Changing-an-Integer/soln.py)|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|Free|66%|Medium|String <br> Greedy|[Soln 1](Python3/1433-Check-if-a-String-Can-Break-Another-String/soln.py)|

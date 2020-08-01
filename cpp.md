@@ -1,5 +1,5 @@
 # C++
-**1160 (350 Easy; 609 Medium; 201 Hard) Problems listed.**
+**1165 (351 Easy; 613 Medium; 201 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -892,6 +892,7 @@
 |1053|[Previous Permutation With One Swap](https://leetcode.com/problems/previous-permutation-with-one-swap)|Free|49%|Medium|Array <br> Greedy|[Soln 1](C++/1053-Previous-Permutation-With-One-Swap/soln.cpp)|
 |1054|[Distant Barcodes](https://leetcode.com/problems/distant-barcodes)|Free|43%|Medium|Heap <br> Sort|[Soln 1](C++/1054-Distant-Barcodes/soln.cpp)|
 |1055|[Shortest Way to Form String](https://leetcode.com/problems/shortest-way-to-form-string)|Paid|57%|Medium| |[Soln 1](C++/1055-Shortest-Way-to-Form-String/soln.cpp)|
+|1056|[Confusing Number](https://leetcode.com/problems/confusing-number)|Paid|49%|Easy| |[Soln 1](C++/1056-Confusing-Number/soln.cpp)|
 |1057|[Campus Bikes](https://leetcode.com/problems/campus-bikes)|Paid|58%|Medium| |[Soln 1](C++/1057-Campus-Bikes/soln-1.cpp) <br> [Soln 2](C++/1057-Campus-Bikes/soln.cpp)|
 |1059|[All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination)|Paid|45%|Medium| |[Soln 1](C++/1059-All-Paths-from-Source-Lead-to-Destination/soln.cpp)|
 |1060|[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array)|Paid|55%|Medium| |[Soln 1](C++/1060-Missing-Element-in-Sorted-Array/soln.cpp)|
@@ -922,6 +923,7 @@
 |1096|[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii)|Free|62%|Hard|String|[Soln 1](C++/1096-Brace-Expansion-II/soln.cpp)|
 |1099|[Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k)|Paid|61%|Easy| |[Soln 1](C++/1099-Two-Sum-Less-Than-K/soln.cpp)|
 |1100|[Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-klength-substrings-with-no-repeated-characters)|Paid|73%|Medium| |[Soln 1](C++/1100-Find-K-Length-Substrings-With-No-Repeated-Characters/soln.cpp)|
+|1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends)|Paid|66%|Medium| |[Soln 1](C++/1101-The-Earliest-Moment-When-Everyone-Become-Friends/soln.cpp)|
 |1102|[Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value)|Paid|49%|Medium| |[Soln 1](C++/1102-Path-With-Maximum-Minimum-Value/soln-1.cpp) <br> [Soln 2](C++/1102-Path-With-Maximum-Minimum-Value/soln-2.cpp) <br> [Soln 3](C++/1102-Path-With-Maximum-Minimum-Value/soln-3.cpp) <br> [Soln 4](C++/1102-Path-With-Maximum-Minimum-Value/soln.cpp)|
 |1106|[Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression)|Free|58%|Hard|String|[Soln 1](C++/1106-Parsing-A-Boolean-Expression/soln.cpp)|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address)|Free|87%|Easy|String|[Soln 1](C++/1108-Defanging-an-IP-Address/soln.cpp)|
@@ -947,6 +949,7 @@
 |1146|[Snapshot Array](https://leetcode.com/problems/snapshot-array)|Free|37%|Medium|Array|[Soln 1](C++/1146-Snapshot-Array/soln-1.cpp) <br> [Soln 2](C++/1146-Snapshot-Array/soln-2.cpp) <br> [Soln 3](C++/1146-Snapshot-Array/soln.cpp)|
 |1147|[Longest Chunked Palindrome Decomposition](https://leetcode.com/problems/longest-chunked-palindrome-decomposition)|Free|59%|Hard|Dynamic Programming <br> Rolling Hash|[Soln 1](C++/1147-Longest-Chunked-Palindrome-Decomposition/soln-1.cpp) <br> [Soln 2](C++/1147-Longest-Chunked-Palindrome-Decomposition/soln.cpp)|
 |1150|[Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array)|Paid|59%|Easy| |[Soln 1](C++/1150-Check-if-a-Number-is-Majority-Element-in-a-Sorted-Array/soln.cpp)|
+|1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|Paid|59%|Medium| |[Soln 1](C++/1151-Minimum-Swaps-to-Group-All-1s-Together/soln.cpp)|
 |1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string)|Paid|36%|Hard| |[Soln 1](C++/1153-String-Transforms-Into-Another-String/soln.cpp)|
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)|Free|49%|Medium|Dynamic Programming|[Soln 1](C++/1155-Number-of-Dice-Rolls-with-Target-Sum/soln.cpp)|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray)|Free|39%|Hard|Array <br> Binary Search <br> Segment Tree|[Soln 1](C++/1157-Online-Majority-Element-in-Subarray/soln.cpp)|
@@ -1002,7 +1005,7 @@
 |1245|[Tree Diameter](https://leetcode.com/problems/tree-diameter)|Paid|60%|Medium| |[Soln 1](C++/1245-Tree-Diameter/soln-1.cpp) <br> [Soln 2](C++/1245-Tree-Diameter/soln-2.cpp) <br> [Soln 3](C++/1245-Tree-Diameter/soln.cpp)|
 |1246|[Palindrome Removal](https://leetcode.com/problems/palindrome-removal)|Paid|46%|Hard| |[Soln 1](C++/1246-Palindrome-Removal/soln.cpp)|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|Free|78%|Easy|Array|[Soln 1](C++/1252-Cells-with-Odd-Values-in-a-Matrix/soln.cpp)|
-|1256|[Encode Number](https://leetcode.com/problems/encode-number)|Paid|66%|Medium| |[Soln 1](C++/1256-Encode-Number/soln.cpp)|
+|1256|[Encode Number](https://leetcode.com/problems/encode-number)|Paid|66%|Medium| |[Soln 1](C++/1256-Encode-Number/soln-1.cpp) <br> [Soln 2](C++/1256-Encode-Number/soln.cpp)|
 |1257|[Smallest Common Region](https://leetcode.com/problems/smallest-common-region)|Paid|59%|Medium| |[Soln 1](C++/1257-Smallest-Common-Region/soln.cpp)|
 |1258|[Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences)|Paid|64%|Medium| |[Soln 1](C++/1258-Synonymous-Sentences/soln.cpp)|
 |1259|[Handshakes That Don't Cross](https://leetcode.com/problems/handshakes-that-dont-cross)|Paid|53%|Hard| |[Soln 1](C++/1259-Handshakes-That-Dont-Cross/soln-1.cpp) <br> [Soln 2](C++/1259-Handshakes-That-Dont-Cross/soln.cpp)|
@@ -1088,6 +1091,7 @@
 |1427|[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts)|Paid|53%|Easy| |[Soln 1](C++/1427-Perform-String-Shifts/soln.cpp)|
 |1428|[Leftmost Column with at Least a One](https://leetcode.com/problems/leftmost-column-with-at-least-a-one)|Paid|47%|Medium| |[Soln 1](C++/1428-Leftmost-Column-with-at-Least-a-One/soln.cpp)|
 |1429|[First Unique Number](https://leetcode.com/problems/first-unique-number)|Paid|47%|Medium| |[Soln 1](C++/1429-First-Unique-Number/soln.cpp)|
+|1430|[Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree)|Paid|45%|Medium| |[Soln 1](C++/1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/soln-1.cpp) <br> [Soln 2](C++/1430-Check-If-a-String-Is-a-Valid-Sequence-from-Root-to-Leaves-Path-in-a-Binary-Tree/soln.cpp)|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies)|Free|89%|Easy|Array|[Soln 1](C++/1431-Kids-With-the-Greatest-Number-of-Candies/soln.cpp)|
 |1433|[Check If a String Can Break Another String](https://leetcode.com/problems/check-if-a-string-can-break-another-string)|Free|66%|Medium|String <br> Greedy|[Soln 1](C++/1433-Check-if-a-String-Can-Break-Another-String/soln.cpp)|
 |1434|[Number of Ways to Wear Different Hats to Each Other](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other)|Free|38%|Hard|Dynamic Programming <br> Bit Manipulation|[Soln 1](C++/1434-Number-of-Ways-to-Wear-Different-Hats-to-Each-Other/soln.cpp)|
@@ -1126,6 +1130,7 @@
 |1481|[Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals)|Free|54%|Medium| |[Soln 1](C++/1481-Least-Number-of-Unique-Integers-After-K-Removals/soln.cpp)|
 |1482|[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets)|Free|45%|Medium| |[Soln 1](C++/1482-Minimum-Number-of-Days-to-Make-m-Bouquets/soln.cpp)|
 |1483|[Kth Ancestor of a Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)|Free|27%|Hard| |[Soln 1](C++/1483-Kth-Ancestor-of-a-Tree-Node/soln.cpp)|
+|1485|[Clone Binary Tree With Random Pointer](https://leetcode.com/problems/clone-binary-tree-with-random-pointer)|Paid|82%|Medium| |[Soln 1](C++/1485-Clone-Binary-Tree-With-Random-Pointer/soln.cpp)|
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array)|Free|85%|Easy| |[Soln 1](C++/1486-XOR-Operation-in-an-Array/soln.cpp)|
 |1487|[Making File Names Unique](https://leetcode.com/problems/making-file-names-unique)|Free|29%|Medium| |[Soln 1](C++/1487-Making-File-Names-Unique/soln.cpp)|
 |1488|[Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city)|Free|25%|Medium| |[Soln 1](C++/1488-Avoid-Flood-in-The-City/soln.cpp)|
