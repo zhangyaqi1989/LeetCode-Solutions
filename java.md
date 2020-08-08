@@ -1,5 +1,5 @@
 # Java
-**866 (341 Easy; 424 Medium; 101 Hard) Problems listed.**
+**869 (341 Easy; 427 Medium; 101 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -198,6 +198,7 @@
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)|Free|43%|Medium|Binary Search <br> Dynamic Programming|[Soln 1](Java/0300-Longest-Increasing-Subsequence/soln-1.java) <br> [Soln 2](Java/0300-Longest-Increasing-Subsequence/soln.java)|
 |0301|[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)|Free|43%|Hard|Depth-first Search <br> Breadth-first Search|[Soln 1](Java/0301-Remove-Invalid-Parentheses/soln.java)|
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|Free|45%|Easy|Dynamic Programming|[Soln 1](Java/0303-Range-Sum-Query-Immutable/soln.java)|
+|0306|[Additive Number](https://leetcode.com/problems/additive-number)|Free|29%|Medium|Backtracking|[Soln 1](Java/0306-Additive-Number/soln.java)|
 |0307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)|Free|35%|Medium|Binary Indexed Tree <br> Segment Tree|[Soln 1](Java/0307-Range-Sum-Query-Mutable/soln.java)|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|Free|47%|Medium|Dynamic Programming|[Soln 1](Java/0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/soln.java)|
 |0310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees)|Free|32%|Medium|Breadth-first Search <br> Graph|[Soln 1](Java/0310-Minimum-Height-Trees/soln.java)|
@@ -780,12 +781,14 @@
 |1375|[Bulb Switcher III](https://leetcode.com/problems/bulb-switcher-iii)|Free|62%|Medium|Array|[Soln 1](Java/1375-Bulb-Switcher-III/soln.java)|
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)|Free|55%|Medium|Depth-first Search|[Soln 1](Java/1376-Time-Needed-to-Inform-All-Employees/soln-1.java) <br> [Soln 2](Java/1376-Time-Needed-to-Inform-All-Employees/soln.java)|
 |1377|[Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|Free|34%|Hard|Depth-first Search|[Soln 1](Java/1377-Frog-Position-After-T-Seconds/soln.java)|
+|1387|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value)|Free|70%|Medium|Sort <br> Graph|[Soln 1](Java/1387-Sort-Integers-by-The-Power-Value/soln-1.java) <br> [Soln 2](Java/1387-Sort-Integers-by-The-Power-Value/soln.java)|
 |1388|[Pizza With 3n Slices](https://leetcode.com/problems/pizza-with-3n-slices)|Free|45%|Hard|Dynamic Programming|[Soln 1](Java/1388-Pizza-With-3n-Slices/soln.java)|
 |1390|[Four Divisors](https://leetcode.com/problems/four-divisors)|Free|38%|Medium|Math|[Soln 1](Java/1390-Four-Divisors/soln.java)|
 |1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)|Free|64%|Easy|Array|[Soln 1](Java/1394-Find-Lucky-Integer-in-an-Array/soln.java)|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)|Free|82%|Medium|Array|[Soln 1](Java/1395-Count-Number-of-Teams/soln.java)|
 |1396|[Design Underground System](https://leetcode.com/problems/design-underground-system)|Free|65%|Medium|Design|[Soln 1](Java/1396-Design-Underground-System/soln.java)|
 |1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group)|Free|65%|Easy|Array|[Soln 1](Java/1399-Count-Largest-Group/soln.java)|
+|1401|[Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|Free|42%|Medium|Geometry|[Soln 1](Java/1401-Circle-and-Rectangle-Overlapping/soln.java)|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-nonincreasing-order)|Free|71%|Easy|Greedy <br> Sort|[Soln 1](Java/1403-Minimum-Subsequence-in-Non-Increasing-Order/soln.java)|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)|Free|65%|Easy|Array|[Soln 1](Java/1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/soln.java)|
 |1414|[Find the Minimum Number of Fibonacci Numbers Whose Sum Is K](https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k)|Free|62%|Medium|Array <br> Greedy|[Soln 1](Java/1414-Find-the-Minimum-Number-of-Fibonacci-Numbers-Whose-Sum-is-K/soln.java)|

@@ -1,5 +1,5 @@
 # C++
-**1171 (351 Easy; 618 Medium; 202 Hard) Problems listed.**
+**1174 (351 Easy; 621 Medium; 202 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -281,6 +281,7 @@
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable)|Free|45%|Easy|Dynamic Programming|[Soln 1](C++/0303-Range-Sum-Query-Immutable/soln.cpp)|
 |0304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable)|Free|39%|Medium|Dynamic Programming|[Soln 1](C++/0304-Range-Sum-Query-2D-Immutable/soln.cpp)|
 |0305|[Number of Islands II](https://leetcode.com/problems/number-of-islands-ii)|Paid|40%|Hard| |[Soln 1](C++/0305-Number-of-Islands-II/soln-1.cpp) <br> [Soln 2](C++/0305-Number-of-Islands-II/soln.cpp)|
+|0306|[Additive Number](https://leetcode.com/problems/additive-number)|Free|29%|Medium|Backtracking|[Soln 1](C++/0306-Additive-Number/soln.cpp)|
 |0307|[Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable)|Free|35%|Medium|Binary Indexed Tree <br> Segment Tree|[Soln 1](C++/0307-Range-Sum-Query-Mutable/soln-1.cpp) <br> [Soln 2](C++/0307-Range-Sum-Query-Mutable/soln-2.cpp) <br> [Soln 3](C++/0307-Range-Sum-Query-Mutable/soln-3.cpp) <br> [Soln 4](C++/0307-Range-Sum-Query-Mutable/soln-4.cpp) <br> [Soln 5](C++/0307-Range-Sum-Query-Mutable/soln.cpp)|
 |0308|[Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable)|Paid|36%|Hard| |[Soln 1](C++/0308-Range-Sum-Query-2D-Mutable/soln-1.cpp) <br> [Soln 2](C++/0308-Range-Sum-Query-2D-Mutable/soln.cpp)|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)|Free|47%|Medium|Dynamic Programming|[Soln 1](C++/0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/soln-1.cpp) <br> [Soln 2](C++/0309-Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/soln.cpp)|
@@ -1071,12 +1072,14 @@
 |1376|[Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees)|Free|55%|Medium|Depth-first Search|[Soln 1](C++/1376-Time-Needed-to-Inform-All-Employees/soln-1.cpp) <br> [Soln 2](C++/1376-Time-Needed-to-Inform-All-Employees/soln.cpp)|
 |1377|[Frog Position After T Seconds](https://leetcode.com/problems/frog-position-after-t-seconds)|Free|34%|Hard|Depth-first Search|[Soln 1](C++/1377-Frog-Position-After-T-Seconds/soln.cpp)|
 |1385|[Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays)|Free|67%|Easy|Array||
+|1387|[Sort Integers by The Power Value](https://leetcode.com/problems/sort-integers-by-the-power-value)|Free|70%|Medium|Sort <br> Graph|[Soln 1](C++/1387-Sort-Integers-by-The-Power-Value/soln-1.cpp) <br> [Soln 2](C++/1387-Sort-Integers-by-The-Power-Value/soln.cpp)|
 |1391|[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)|Free|45%|Medium|Depth-first Search <br> Breadth-first Search|[Soln 1](C++/1391-Check-If-There-is-a-Valid-Path-in-a-Grid/soln.cpp)|
 |1392|[Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix)|Free|40%|Hard|String|[Soln 1](C++/1392-Longest-Happy-Prefix/soln.cpp)|
 |1394|[Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array)|Free|64%|Easy|Array|[Soln 1](C++/1394-Find-Lucky-Integer-in-an-Array/soln-1.cpp) <br> [Soln 2](C++/1394-Find-Lucky-Integer-in-an-Array/soln.cpp)|
 |1395|[Count Number of Teams](https://leetcode.com/problems/count-number-of-teams)|Free|82%|Medium|Array|[Soln 1](C++/1395-Count-Number-of-Teams/soln.cpp)|
 |1396|[Design Underground System](https://leetcode.com/problems/design-underground-system)|Free|65%|Medium|Design|[Soln 1](C++/1396-Design-Underground-System/soln.cpp)|
 |1399|[Count Largest Group](https://leetcode.com/problems/count-largest-group)|Free|65%|Easy|Array|[Soln 1](C++/1399-Count-Largest-Group/soln.cpp)|
+|1401|[Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping)|Free|42%|Medium|Geometry|[Soln 1](C++/1401-Circle-and-Rectangle-Overlapping/soln.cpp)|
 |1403|[Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-nonincreasing-order)|Free|71%|Easy|Greedy <br> Sort|[Soln 1](C++/1403-Minimum-Subsequence-in-Non-Increasing-Order/soln.cpp)|
 |1404|[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)|Free|50%|Medium|String <br> Bit Manipulation|[Soln 1](C++/1404-Number-of-Steps-to-Reduce-a-Number-in-Binary-Representation-to-One/soln.cpp)|
 |1413|[Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum)|Free|65%|Easy|Array|[Soln 1](C++/1413-Minimum-Value-to-Get-Positive-Step-by-Step-Sum/soln.cpp)|
