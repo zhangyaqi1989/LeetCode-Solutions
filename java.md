@@ -1,5 +1,5 @@
 # Java
-**869 (341 Easy; 427 Medium; 101 Hard) Problems listed.**
+**870 (341 Easy; 428 Medium; 101 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -699,6 +699,7 @@
 |1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements)|Free|51%|Easy|Math|[Soln 1](Java/1175-Prime-Arrangements/soln.java)|
 |1176|[Diet Plan Performance](https://leetcode.com/problems/diet-plan-performance)|Paid|54%|Easy| |[Soln 1](Java/1176-Diet-Plan-Performance/soln.java)|
 |1180|[Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|Paid|77%|Easy| |[Soln 1](Java/1180-Count-Substrings-with-Only-One-Distinct-Letter/soln-1.java) <br> [Soln 2](Java/1180-Count-Substrings-with-Only-One-Distinct-Letter/soln.java)|
+|1182|[Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color)|Paid|53%|Medium| |[Soln 1](Java/1182-Shortest-Distance-to-Target/soln.java)|
 |1184|[Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops)|Free|54%|Easy|Array|[Soln 1](Java/1184-Distance-Between-Bus-Stops/soln.java)|
 |1189|[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons)|Free|61%|Easy|Hash Table <br> String|[Soln 1](Java/1189-Maximum-Number-of-Balloons/soln.java)|
 |1192|[Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network)|Free|49%|Hard|Depth-first Search|[Soln 1](Java/1192-Critical-Connections-in-a-Network/soln.java)|

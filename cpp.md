@@ -1,5 +1,5 @@
 # C++
-**1174 (351 Easy; 621 Medium; 202 Hard) Problems listed.**
+**1178 (351 Easy; 625 Medium; 202 Hard) Problems listed.**
 
 
 | # | Problem | Free? | AC Rate | Difficulty | Tags | Solutions |
@@ -322,6 +322,7 @@
 |0352|[Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|Free|47%|Hard|Binary Search <br> Ordered Map|[Soln 1](C++/0352-Data-Stream-as-Disjoint-Intervals/soln-1.cpp) <br> [Soln 2](C++/0352-Data-Stream-as-Disjoint-Intervals/soln-2.cpp) <br> [Soln 3](C++/0352-Data-Stream-as-Disjoint-Intervals/soln-3.cpp) <br> [Soln 4](C++/0352-Data-Stream-as-Disjoint-Intervals/soln.cpp)|
 |0353|[Design Snake Game](https://leetcode.com/problems/design-snake-game)|Paid|34%|Medium| |[Soln 1](C++/0353-Design-Snake-Game/soln.cpp)|
 |0354|[Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes)|Free|36%|Hard|Binary Search <br> Dynamic Programming|[Soln 1](C++/0354-Russian-Doll-Envelopes/soln-1.cpp) <br> [Soln 2](C++/0354-Russian-Doll-Envelopes/soln.cpp)|
+|0356|[Line Reflection](https://leetcode.com/problems/line-reflection)|Paid|32%|Medium| |[Soln 1](C++/0356-Line-Reflection/soln-1.cpp) <br> [Soln 2](C++/0356-Line-Reflection/soln.cpp)|
 |0357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits)|Free|48%|Medium|Math <br> Dynamic Programming <br> Backtracking|[Soln 1](C++/0357-Count-Numbers-with-Unique-Digits/soln.cpp)|
 |0358|[Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart)|Paid|35%|Hard| |[Soln 1](C++/0358-Rearrange-String-K-Distance-Apart/soln.cpp)|
 |0359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter)|Paid|71%|Easy| |[Soln 1](C++/0359-Logger-Rate-Limiter/soln.cpp)|
@@ -954,6 +955,7 @@
 |1151|[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together)|Paid|59%|Medium| |[Soln 1](C++/1151-Minimum-Swaps-to-Group-All-1s-Together/soln.cpp)|
 |1153|[String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string)|Paid|36%|Hard| |[Soln 1](C++/1153-String-Transforms-Into-Another-String/soln.cpp)|
 |1155|[Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)|Free|49%|Medium|Dynamic Programming|[Soln 1](C++/1155-Number-of-Dice-Rolls-with-Target-Sum/soln.cpp)|
+|1156|[Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-longest-repeated-character-substring)|Free|49%|Medium|String|[Soln 1](C++/1156-Swap-For-Longest-Repeated-Character-Substring/soln.cpp)|
 |1157|[Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray)|Free|39%|Hard|Array <br> Binary Search <br> Segment Tree|[Soln 1](C++/1157-Online-Majority-Element-in-Subarray/soln.cpp)|
 |1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|Free|67%|Easy|Array <br> Hash Table|[Soln 1](C++/1160-Find-Words-That-Can-Be-Formed-by-Characters/soln.cpp)|
 |1162|[As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible)|Free|43%|Medium|Breadth-first Search <br> Graph|[Soln 1](C++/1162-As-Far-from-Land-as-Possible/soln.cpp)|
@@ -968,6 +970,7 @@
 |1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|Free|35%|Medium|Array <br> String|[Soln 1](C++/1177-Can-Make-Palindrome-From-Substring/soln.cpp)|
 |1178|[Number of Valid Words for Each Puzzle](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|Free|38%|Hard|Hash Table <br> Bit Manipulation|[Soln 1](C++/1178-Number-of-Valid-Words-for-Each-Puzzle/soln.cpp)|
 |1180|[Count Substrings with Only One Distinct Letter](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|Paid|77%|Easy| |[Soln 1](C++/1180-Count-Substrings-with-Only-One-Distinct-Letter/soln.cpp)|
+|1182|[Shortest Distance to Target Color](https://leetcode.com/problems/shortest-distance-to-target-color)|Paid|53%|Medium| |[Soln 1](C++/1182-Shortest-Distance-to-Target/soln.cpp)|
 |1183|[Maximum Number of Ones](https://leetcode.com/problems/maximum-number-of-ones)|Paid|54%|Hard| |[Soln 1](C++/1183-Maximum-Number-of-Ones/soln.cpp)|
 |1187|[Make Array Strictly Increasing](https://leetcode.com/problems/make-array-strictly-increasing)|Free|42%|Hard|Dynamic Programming|[Soln 1](C++/1187-Make-Array-Strictly-Increasing/soln.cpp)|
 |1190|[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|Free|61%|Medium|Stack|[Soln 1](C++/1190-Reverse-Substrings-Between-Each-Pair-of-Parentheses/soln.cpp)|
@@ -1007,6 +1010,7 @@
 |1245|[Tree Diameter](https://leetcode.com/problems/tree-diameter)|Paid|60%|Medium| |[Soln 1](C++/1245-Tree-Diameter/soln-1.cpp) <br> [Soln 2](C++/1245-Tree-Diameter/soln-2.cpp) <br> [Soln 3](C++/1245-Tree-Diameter/soln.cpp)|
 |1246|[Palindrome Removal](https://leetcode.com/problems/palindrome-removal)|Paid|46%|Hard| |[Soln 1](C++/1246-Palindrome-Removal/soln.cpp)|
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|Free|78%|Easy|Array|[Soln 1](C++/1252-Cells-with-Odd-Values-in-a-Matrix/soln.cpp)|
+|1254|[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands)|Free|60%|Medium|Depth-first Search|[Soln 1](C++/1254-Number-of-Closed-Islands/soln.cpp)|
 |1256|[Encode Number](https://leetcode.com/problems/encode-number)|Paid|66%|Medium| |[Soln 1](C++/1256-Encode-Number/soln-1.cpp) <br> [Soln 2](C++/1256-Encode-Number/soln.cpp)|
 |1257|[Smallest Common Region](https://leetcode.com/problems/smallest-common-region)|Paid|59%|Medium| |[Soln 1](C++/1257-Smallest-Common-Region/soln.cpp)|
 |1258|[Synonymous Sentences](https://leetcode.com/problems/synonymous-sentences)|Paid|64%|Medium| |[Soln 1](C++/1258-Synonymous-Sentences/soln.cpp)|
