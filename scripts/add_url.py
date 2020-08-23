@@ -9,6 +9,7 @@
 ##################################
 
 # standard library
+import concurrent.futures
 import os
 import sys
 import time
@@ -18,11 +19,10 @@ import requests
 
 SLEEP_TIME = 0.1
 
-def problem_url_exist(problem, sleep_time=1.5):
+def problem_url_exist(problem):
     # problem format is "Two-Sum"
     prefix = "https://leetcode.com/problems/"
     url = prefix + problem.lower() + '/'
-    time.sleep(sleep_time)
     return url_exist(url), url
 
 
@@ -49,6 +49,24 @@ def check_urls(base_dir):
             if not exists:
                 nwrongs += 1
                 print("{}:{}".format(num, rest))
+    print("There are {} wrong folder names".format(nwrongs))
+
+
+def check_urls_parallel(base_dir):
+    """check if urls are available (parallel version)."""
+    cnt, nwrongs = 0, 0
+    with concurrent.futures.ThreadPoolExecutor() as executor:
+        futures = []
+        for fn in sorted(os.listdir(base_dir), reverse=True): # folder name
+            if os.path.isdir(os.path.join(base_dir, fn)):
+                num, problem = fn.split('-', 1)
+                cnt += 1
+                futures.append(executor.submit(problem_url_exist, problem=problem))
+        for future in concurrent.futures.as_completed(futures):
+            exist, url = future.result()
+            if not exist:
+                nwrongs += 1
+                print(f"{url} does not exists")
     print("There are {} wrong folder names".format(nwrongs))
 
 
@@ -81,7 +99,7 @@ if __name__ == "__main__":
     # base_dir = '../Python3'
     # base_dir = '../C++'
     base_dir = '../Java'
-    check_urls(base_dir)
+    check_urls_parallel(base_dir)
 
     ## 2. fix folder names based on Python3 folder names
     # base_dir = '../C++'
