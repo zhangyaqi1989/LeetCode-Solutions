@@ -1,7 +1,7 @@
 # [LeetCode](https://leetcode.com/)
 
 This repository contains my solutions of some Leetcode algorithm questions.
-Currently it contains Python3 solution for 1340 problems, C++ solution for 1194 problems, Java solution for 884 problems.
+Currently it contains Python3 solution for 1354 problems, C++ solution for 1194 problems, Java solution for 884 problems.
 A problem may have multiple solutions.
 
 * [Python 3](python3.md)
